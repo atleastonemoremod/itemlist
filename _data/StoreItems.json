@@ -20459,7 +20459,157 @@
 		"price": 50000,
 		"category": "Blasters",
 		"defname": "guy762_brifle_zersium"
+	},
+	{
+		"abr": "broadsaber",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Broadsaber"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Crossguard"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Curved"
+	},
+	{
+		"abr": "darksaber",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Darksaber"
+	},
+	{
+		"abr": "duallightsaber",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Inquisitor"
+	},
+	{
+		"abr": "dual-bladedlightsaber",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Dual"
+	},
+	{
+		"abr": "kybercrystal",
+		"price": 167,
+		"category": "Raw resources",
+		"defname": "Force_KyberCrystal"
+	},
+	{
+		"abr": "lightsaber",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Custom"
+	},
+	{
+		"abr": "lightsaber(shoto)",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "Force_Lightsaber_Shoto"
+	},
+	{
+		"abr": "psytrainer(centerofbeing)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_CenterOfBeing"
+	},
+	{
+		"abr": "psytrainer(chomai)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_ChoMai"
+	},
+	{
+		"abr": "psytrainer(chomok)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_ChoMok"
+	},
+	{
+		"abr": "psytrainer(chosun)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_ChoSun"
+	},
+	{
+		"abr": "psytrainer(dunmöch)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_DunMoch"
+	},
+	{
+		"abr": "psytrainer(jediready)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_Jedi_Ready"
+	},
+	{
+		"abr": "psytrainer(lightsaberduel)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_Duel"
+	},
+	{
+		"abr": "psytrainer(moukei)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_MouKei"
+	},
+	{
+		"abr": "psytrainer(saicha)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_SaiCha"
+	},
+	{
+		"abr": "psytrainer(saitok)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_SaiTok"
+	},
+	{
+		"abr": "psytrainer(sai)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_Sai"
+	},
+	{
+		"abr": "psytrainer(shiim)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_Shiim"
+	},
+	{
+		"abr": "psytrainer(sundjerm)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_SunDjerm"
+	},
+	{
+		"abr": "psytrainer(telekineticlightsaber)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_TelekineticLightsaber"
+	},
+	{
+		"abr": "psytrainer(throwweapon)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Force_ThrowWeapon"
+	},
+	{
+		"abr": "dissectiontable",
+		"price": 425,
+		"category": "Production",
+		"defname": "TableDissection"
 	}
 	],
-	"total": 3410
+	"total": 3435
 }

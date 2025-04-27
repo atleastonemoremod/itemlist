@@ -204,6 +204,18 @@
     "version": null
   },
   {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kopp",
+    "name": "Choose Your Medicine",
+    "steamId": "2937201140",
+    "version": "1.0.18.0"
+  },
+  {
     "author": "Mlie",
     "name": "Cleaning Priority (Continued)",
     "steamId": null,
@@ -282,6 +294,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "3382255579",
+    "version": "4.9.95"
+  },
+  {
     "author": "Mlie",
     "name": "Food Alert (Continued)",
     "steamId": "2017538067",
@@ -348,6 +366,12 @@
     "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
+    "author": "Heremeus",
+    "name": "Medical Dissection",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kapitan Oczywisty",
     "name": "Minimal Light Control",
     "steamId": null,
@@ -408,12 +432,6 @@
     "version": "1.5"
   },
   {
-    "author": "Fluffy - DomB (1.5 and Lung Rot fix)",
-    "name": "Pharmacist",
-    "steamId": "3256204706",
-    "version": "2.9.141"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -430,6 +448,12 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Reminders",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -534,6 +558,12 @@
     "version": null
   },
   {
+    "author": "Lee",
+    "name": "Star Wars : The Force - Lightsaber",
+    "steamId": "3466124712",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "guy762",
     "name": "Star Wars KotOR Droids",
     "steamId": null,
@@ -568,6 +598,12 @@
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
     "version": "1.6.0+dd0f8eb4b330bb7a72b94713ab8b965f9d2320df"
+  },
+  {
+    "author": "DarkShadow44",
+    "name": "SurgeryImproved",
+    "steamId": "3233032071",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
