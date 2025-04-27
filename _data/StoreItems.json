@@ -20609,7 +20609,13 @@
 		"price": 425,
 		"category": "Production",
 		"defname": "TableDissection"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "TherapyCouch"
 	}
 	],
-	"total": 3435
+	"total": 3436
 }
