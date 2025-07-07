@@ -84,24 +84,6 @@
     "version": "4.7.272"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
@@ -378,6 +360,18 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Garethp",
     "name": "Replace Stuff Mod Compatibility",
     "steamId": "2642161586",
@@ -400,6 +394,18 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.16.0.0"
+  },
+  {
+    "author": "JerryTheCultist",
+    "name": "Rimframe: Vatgrown Hate",
+    "steamId": "3431220821",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "JerryTheCultist",
+    "name": "Rimframe: Vatgrown Home!",
+    "steamId": "3490855953",
+    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
