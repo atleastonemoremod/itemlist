@@ -7700,13 +7700,13 @@
 	},
 	{
 		"abr": "centauroid",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_Centaur"
 	},
 	{
 		"abr": "centauroidwithfourarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_CentaurFourArm"
 	},
@@ -8558,25 +8558,25 @@
 	},
 	{
 		"abr": "centauroidwithfourarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_CentaurFourArmWinged"
 	},
 	{
 		"abr": "centauroidwithsixarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_CentaurSixArm"
 	},
 	{
 		"abr": "centauroidwithsixarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_CentaurSixArmWinged"
 	},
 	{
 		"abr": "centauroidwithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_CentaurWinged"
 	},
@@ -9446,7 +9446,7 @@
 	},
 	{
 		"abr": "disembodiedhead",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_JustAHead"
 	},
@@ -10178,25 +10178,25 @@
 	},
 	{
 		"abr": "fourarmedhuman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_HumanFouramed"
 	},
 	{
 		"abr": "four-armedhumanlikewithatail",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_FourArmTailed"
 	},
 	{
 		"abr": "four-armedhumanlikewithatailandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_FourArmTailedWinged"
 	},
 	{
 		"abr": "four-armedhumanlikewithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_FourArmWinged"
 	},
@@ -11438,181 +11438,181 @@
 	},
 	{
 		"abr": "mech",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_UrbMech"
 	},
 	{
 		"abr": "mechwithatail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaTailed"
 	},
 	{
 		"abr": "mechwithatailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaTailedWinged"
 	},
 	{
 		"abr": "mechwithfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArm"
 	},
 	{
 		"abr": "mechwithfourarmsandatail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmTailed"
 	},
 	{
 		"abr": "mechwithfourarmsandatailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmTailedWinged"
 	},
 	{
 		"abr": "mechwithfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmWinged"
 	},
 	{
 		"abr": "mechwithfourlegs",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaur"
 	},
 	{
 		"abr": "mechwithfourlegsandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurFourArm"
 	},
 	{
 		"abr": "mechwithfourlegsandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurFourArmWinged"
 	},
 	{
 		"abr": "mechwithfourlegsandsixarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurSixArm"
 	},
 	{
 		"abr": "mechwithfourlegsandsixarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurSixArmWinged"
 	},
 	{
 		"abr": "mechwithfourlegsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurWinged"
 	},
 	{
 		"abr": "mechwithserpent-liketail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnek"
 	},
 	{
 		"abr": "mechwithserpent-liketailandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekFourArm"
 	},
 	{
 		"abr": "mechwithserpent-liketailandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekFourArmWinged"
 	},
 	{
 		"abr": "mechwithserpent-liketailandsixarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekSixArm"
 	},
 	{
 		"abr": "mechwithserpent-liketailandsixarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekSixArmWinged"
 	},
 	{
 		"abr": "mechwithserpent-liketailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekWinged"
 	},
 	{
 		"abr": "mechwithsixarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSixArm"
 	},
 	{
 		"abr": "mechwithsixarmsandatail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSixArmTailed"
 	},
 	{
 		"abr": "mechwithsixarmsandatailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSixArmTailedWinged"
 	},
 	{
 		"abr": "mechwithsixarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSixArmWinged"
 	},
 	{
 		"abr": "mechwithspider-likeabdomen",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooder"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderFourArm"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderFourArmWinged"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandsixarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderSixArm"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandsixarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderSixArmWinged"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderWinged"
 	},
 	{
 		"abr": "mechwithwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaWinged"
 	},
@@ -13208,31 +13208,31 @@
 	},
 	{
 		"abr": "serpent-likewithfourarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SnekFourArm"
 	},
 	{
 		"abr": "serpent-likewithfourarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SnekFourArmWinged"
 	},
 	{
 		"abr": "serpent-likewithsixarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SnekSixArm"
 	},
 	{
 		"abr": "serpent-likewithsixarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SnekSixArmWinged"
 	},
 	{
 		"abr": "serpent-likewithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SnekWinged"
 	},
@@ -13784,31 +13784,31 @@
 	},
 	{
 		"abr": "sixarmedhuman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_SixArmedHuman"
 	},
 	{
 		"abr": "six-armedhumanlikewithatail",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SixArmTailed"
 	},
 	{
 		"abr": "six-armedhumanlikewithatailandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SixArmTailedWinged"
 	},
 	{
 		"abr": "six-armedhumanlikewithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SixArmWinged"
 	},
 	{
 		"abr": "six-armedsnake-person",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_Marlith"
 	},
@@ -13856,7 +13856,7 @@
 	},
 	{
 		"abr": "snake-person",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_Naga"
 	},
@@ -13940,37 +13940,37 @@
 	},
 	{
 		"abr": "spider-likewithfourarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SpooderFourArm"
 	},
 	{
 		"abr": "spider-likewithfourarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SpooderFourArmWinged"
 	},
 	{
 		"abr": "spider-likewithsixarms",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SpooderSixArm"
 	},
 	{
 		"abr": "spider-likewithsixarmsandwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SpooderSixArmWinged"
 	},
 	{
 		"abr": "spider-likewithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_SpooderWinged"
 	},
 	{
 		"abr": "spider-person",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_SpiderPersonRace"
 	},
@@ -14138,13 +14138,13 @@
 	},
 	{
 		"abr": "tailedhumanlikewithwings",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "G_TailedWinged"
 	},
 	{
 		"abr": "tailedhumanoid",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_HumanoidWithTail"
 	},
@@ -14858,7 +14858,7 @@
 	},
 	{
 		"abr": "wingedhumanoid",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_HumanoidWithWings"
 	},
@@ -15059,6 +15059,258 @@
 		"price": 4917,
 		"category": "Headgear",
 		"defname": "Apparel_G_Wolfs6helmCorrupted"
+	},
+	{
+		"abr": "drakgoon",
+		"price": 1758,
+		"category": "Ranged weapons",
+		"defname": "Gun_Drakgoon"
+	},
+	{
+		"abr": "drudgebrazerhelmet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Apparel_G_DrudgeBrazerHelm"
+	},
+	{
+		"abr": "drudgeforemanhelmet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Apparel_G_DrudgeForemanHelm"
+	},
+	{
+		"abr": "drudgesuit",
+		"price": 575,
+		"category": "Armor",
+		"defname": "Apparel_G_Drudge"
+	},
+	{
+		"abr": "elitelancerarmor",
+		"price": 1475,
+		"category": "Armor",
+		"defname": "Apparel_G_ELancer"
+	},
+	{
+		"abr": "elitelancerhelmet",
+		"price": 658,
+		"category": "Headgear",
+		"defname": "Apparel_G_ELancerhelm"
+	},
+	{
+		"abr": "emplauncher",
+		"price": 842,
+		"category": "Ranged weapons",
+		"defname": "Gun_EmpLauncher"
+	},
+	{
+		"abr": "flamebow",
+		"price": 75,
+		"category": "Ranged weapons",
+		"defname": "Flamebow"
+	},
+	{
+		"abr": "geneslurry",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "G_Geneslurry"
+	},
+	{
+		"abr": "genestamp",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "G_Genestamp"
+	},
+	{
+		"abr": "geneticperfection",
+		"price": 8333,
+		"category": "Armor",
+		"defname": "Apparel_G_Tylsuit"
+	},
+	{
+		"abr": "gorgon",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gorgon"
+	},
+	{
+		"abr": "grakata",
+		"price": 875,
+		"category": "Ranged weapons",
+		"defname": "Gun_Grakata"
+	},
+	{
+		"abr": "grokdrul",
+		"price": 13,
+		"category": "Manufactured",
+		"defname": "G_Grokdrul"
+	},
+	{
+		"abr": "grokdrulgenerator",
+		"price": 271,
+		"category": "Power",
+		"defname": "G_Grokdrulfueledgeneratorsmall"
+	},
+	{
+		"abr": "guestalloybed",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "AlloyBedGuest"
+	},
+	{
+		"abr": "heavygunnerexosuit",
+		"price": 2050,
+		"category": "Armor",
+		"defname": "Apparel_G_Heavygunner"
+	},
+	{
+		"abr": "hind",
+		"price": 1475,
+		"category": "Ranged weapons",
+		"defname": "Gun_Hind"
+	},
+	{
+		"abr": "houndsvisage",
+		"price": 4583,
+		"category": "Headgear",
+		"defname": "Apparel_G_Wolfs6helm"
+	},
+	{
+		"abr": "industriallavatory",
+		"price": 87,
+		"category": "Hygiene",
+		"defname": "Grineertrainingpotty"
+	},
+	{
+		"abr": "knux",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Knux"
+	},
+	{
+		"abr": "kraken",
+		"price": 274,
+		"category": "Ranged weapons",
+		"defname": "Gun_Kraken"
+	},
+	{
+		"abr": "lancerarmor",
+		"price": 1183,
+		"category": "Armor",
+		"defname": "Apparel_G_Lancer"
+	},
+	{
+		"abr": "lancerhelmet",
+		"price": 492,
+		"category": "Headgear",
+		"defname": "Apparel_G_Lancerhelm"
+	},
+	{
+		"abr": "lancershield",
+		"price": 251,
+		"category": "Utility",
+		"defname": "Apparel_G_Lancershield"
+	},
+	{
+		"abr": "lancersuit",
+		"price": 583,
+		"category": "Armor",
+		"defname": "Apparel_G_Lightlancer"
+	},
+	{
+		"abr": "machete",
+		"price": 842,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Gmachete"
+	},
+	{
+		"abr": "marelok",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Gun_Marelok"
+	},
+	{
+		"abr": "scorpionsuit",
+		"price": 1000,
+		"category": "Armor",
+		"defname": "Apparel_G_Scorpion"
+	},
+	{
+		"abr": "sheev",
+		"price": 433,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Sheev"
+	},
+	{
+		"abr": "shieldlancerhelmet",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_G_lightlancerhelm"
+	},
+	{
+		"abr": "smokelauncher",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmokeLauncher"
+	},
+	{
+		"abr": "sobek",
+		"price": 1358,
+		"category": "Ranged weapons",
+		"defname": "Gun_Sobek"
+	},
+	{
+		"abr": "tatteredhide",
+		"price": 8333,
+		"category": "Armor",
+		"defname": "Apparel_G_WolfS6suit"
+	},
+	{
+		"abr": "toxbomblauncher",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "Gun_ToxbombLauncher"
+	},
+	{
+		"abr": "trooperarmor",
+		"price": 1283,
+		"category": "Armor",
+		"defname": "Apparel_G_Trooper"
+	},
+	{
+		"abr": "trooperhelmet",
+		"price": 908,
+		"category": "Headgear",
+		"defname": "Apparel_G_Trooperhelm"
+	},
+	{
+		"abr": "vathood",
+		"price": 88,
+		"category": "Headgear",
+		"defname": "Apparel_G_VatRatHat"
+	},
+	{
+		"abr": "vatsleeve",
+		"price": 209,
+		"category": "Misc",
+		"defname": "Apparel_G_VatRat"
+	},
+	{
+		"abr": "viper",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "Gun_Viper"
+	},
+	{
+		"abr": "vulkar",
+		"price": 1525,
+		"category": "Ranged weapons",
+		"defname": "Gun_Vulkar"
+	},
+	{
+		"abr": "wolfsledge",
+		"price": 4583,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Wolfsledge"
 	},
 	],
 	"total": 2552
