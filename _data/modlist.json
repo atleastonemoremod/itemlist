@@ -18,6 +18,12 @@
     "version": "11.0.5"
   },
   {
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -27,7 +33,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.7.2"
+    "version": "1.8.5"
   },
   {
     "author": "erdelf",
@@ -111,7 +117,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.2.0.0"
+    "version": "3.3.1.0"
   },
   {
     "author": "Kopp",
@@ -399,7 +405,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.0.0"
+    "version": "1.16.1.0"
   },
   {
     "author": "JerryTheCultist",

@@ -15312,6 +15312,36 @@
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Wolfsledge"
 	},
+	{
+		"abr": "twi'lekheadband,utilitarian",
+		"price": 83,
+		"category": "Apparel",
+		"defname": "guy762_TwilekHeadband_hera_NoGoggles"
+	},
+	{
+		"abr": "beerfountain",
+		"price": 4167,
+		"category": "Special",
+		"defname": "BeerFountain"
+	},
+	{
+		"abr": "neuralforcefieldintegrator",
+		"price": 8000,
+		"category": "Bionic",
+		"defname": "ForcefieldIntegrator"
+	},
+	{
+		"abr": "psychicsoup",
+		"price": 113,
+		"category": "Meals",
+		"defname": "PsychicSoup"
+	},
+	{
+		"abr": "smokeleafpartypack",
+		"price": 167,
+		"category": "Armor",
+		"defname": "Apparel_PackSmokeleaf"
+	}
 	],
-	"total": 2552
+	"total": 2557
 }
