@@ -15318,30 +15318,6 @@
 		"category": "Apparel",
 		"defname": "guy762_TwilekHeadband_hera_NoGoggles"
 	},
-	{
-		"abr": "beerfountain",
-		"price": 4167,
-		"category": "Special",
-		"defname": "BeerFountain"
-	},
-	{
-		"abr": "neuralforcefieldintegrator",
-		"price": 8000,
-		"category": "Bionic",
-		"defname": "ForcefieldIntegrator"
-	},
-	{
-		"abr": "psychicsoup",
-		"price": 113,
-		"category": "Meals",
-		"defname": "PsychicSoup"
-	},
-	{
-		"abr": "smokeleafpartypack",
-		"price": 167,
-		"category": "Armor",
-		"defname": "Apparel_PackSmokeleaf"
-	}
 	],
-	"total": 2557
+	"total": 2555
 }
