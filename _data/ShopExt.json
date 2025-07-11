@@ -2852,7 +2852,7 @@
       "defName": "guy762_DroidRace_DevAD",
       "enabled": true,
       "name": "Devastator-class Type II assassin droid",
-      "price": 14333
+      "price": 20000
     },
     {
       "data": {
@@ -2936,7 +2936,7 @@
       "defName": "guy762_DroidRace_ADMkI",
       "enabled": true,
       "name": "Assault Droid Mark I",
-      "price": 23333
+      "price": 20000
     },
     {
       "data": {
@@ -2979,7 +2979,7 @@
       "defName": "guy762_DroidRace_ADMkIV",
       "enabled": true,
       "name": "Assault Droid Mark IV",
-      "price": 35000
+      "price": 20000
     },
     {
       "data": {
@@ -3024,7 +3024,7 @@
       "defName": "guy762_DroidRace_HK50series",
       "enabled": true,
       "name": "HK-50 series protocol droid",
-      "price": 55000
+      "price": 20000
     },
     {
       "data": {
@@ -3156,7 +3156,7 @@
       "defName": "guy762_DroidRace_ADMkI_sf",
       "enabled": true,
       "name": "Star Forge Assault Droid",
-      "price": 58183
+      "price": 20000
     },
     {
       "data": {
@@ -3199,7 +3199,7 @@
       "defName": "guy762_DroidRace_ADMkIV_sith",
       "enabled": true,
       "name": "Assault Droid Mk.IV Type B",
-      "price": 43783
+      "price": 20000
     },
     {
       "data": {
@@ -3244,7 +3244,7 @@
       "defName": "guy762_DroidRace_HK51series",
       "enabled": true,
       "name": "HK-51 series assassin droid",
-      "price": 55000
+      "price": 20000
     },
     {
       "data": {
@@ -3287,7 +3287,7 @@
       "defName": "guy762_DroidRace_GOTO",
       "enabled": true,
       "name": "G0-T0 superintelligence droid",
-      "price": 100000
+      "price": 20000
     },
     {
       "data": {
@@ -3332,7 +3332,7 @@
       "defName": "guy762_DroidRace_HKseries",
       "enabled": true,
       "name": "HK-series protocol droid",
-      "price": 55000
+      "price": 20000
     }
   ]
 }
