@@ -18,36 +18,6 @@
     "version": "11.0.5"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.8.5"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "ABF: Artificial Beings Framework",
-    "steamId": "3284097810",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "ABF: Synstructs Core",
-    "steamId": "3288463094",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -88,6 +58,24 @@
     "name": "Animal Tab",
     "steamId": "712141500",
     "version": "4.7.272"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
   },
   {
     "author": "VouLT",
@@ -192,10 +180,22 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
   },
   {
     "author": "Dubwise",
@@ -264,6 +264,18 @@
     "version": "1.5.0.8"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.8.5"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Turnovus",
     "name": "Integrated Genes",
     "steamId": "2884115974",
@@ -298,12 +310,6 @@
     "name": "Misc. Training",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "kaitorisenkou",
-    "name": "ModularWeapons",
-    "steamId": "2878204522",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -384,18 +390,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Garethp",
     "name": "Replace Stuff Mod Compatibility",
     "steamId": "2642161586",
@@ -420,18 +414,6 @@
     "version": "1.16.1.0"
   },
   {
-    "author": "JerryTheCultist",
-    "name": "Rimframe: Vatgrown Hate",
-    "steamId": "3431220821",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "JerryTheCultist",
-    "name": "Rimframe: Vatgrown Home!",
-    "steamId": "3490855953",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Syrchalis and Nandonalt",
     "name": "Set Up Camp",
     "steamId": "3234938357",
@@ -450,42 +432,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "guy762, Sovereign and Kaitorisenkou",
-    "name": "Star Wars Xenotypes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762, MajesticMadman, Kaitorisenkou and lee01richards",
-    "name": "Star Wars KotOR Resources and Materials",
-    "steamId": "3254370945",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Weapons and Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Droids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "guy762, Lee, Kaitorisenkou and Ranger Rick",
-    "name": "Star Wars KotOR Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lee",
     "name": "Star Wars : The Force-Psycast",
     "steamId": "3100942433",
@@ -496,6 +442,12 @@
     "name": "Star Wars : The Force - Lightsaber",
     "steamId": "3466124712",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762, Sovereign and Kaitorisenkou",
+    "name": "Star Wars Xenotypes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Scherub",
@@ -550,6 +502,54 @@
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
     "steamId": "3239583412",
     "version": "1.5.0.1"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - Mushrooms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy (Arof and DomB)",
