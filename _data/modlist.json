@@ -180,12 +180,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "merthsoft",
-    "name": "Designator Shapes",
-    "steamId": "1235181370",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
@@ -429,6 +423,12 @@
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krelinos",
+    "name": "Social Experience from Trade",
+    "steamId": "3400608063",
     "version": "1.0.0.0"
   },
   {
