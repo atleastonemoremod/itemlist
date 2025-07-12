@@ -99,7 +99,7 @@
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
-    "version": "1.5.36.0+943ada0388febcf3ccb5db567f2b0746ce32f3b3"
+    "version": "1.5.35.0+fdd819b04d63aa9a64a619a8eb0e0cec2a2b6d03"
   },
   {
     "author": "Creeper",
@@ -153,7 +153,7 @@
     "author": "Kopp",
     "name": "Choose Your Medicine",
     "steamId": "2937201140",
-    "version": "1.1.1.0"
+    "version": "1.1.5.0"
   },
   {
     "author": "Mlie",
@@ -214,6 +214,12 @@
     "name": "EBSG Framework",
     "steamId": "3112549163",
     "version": "1.0.9287.37233"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Final Fantasy Animals",
+    "steamId": "2877589761",
+    "version": "1.0.8865.27182"
   },
   {
     "author": "YukiAiko",
