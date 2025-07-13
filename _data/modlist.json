@@ -87,7 +87,7 @@
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
-    "version": "1.5.35.0+fdd819b04d63aa9a64a619a8eb0e0cec2a2b6d03"
+    "version": "1.5.36.0+943ada0388febcf3ccb5db567f2b0746ce32f3b3"
   },
   {
     "author": "Creeper",
@@ -105,7 +105,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.3.1.0"
+    "version": "3.3.2.0"
   },
   {
     "author": "Kopp",
@@ -159,7 +159,7 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.6.0+b737f9a558560d884e38fa561288a887f1c59091"
+    "version": "0.6.1+7b00293a3c6175e162a045bba18ffc87a3dd78c8"
   },
   {
     "author": "tiagocc0",
@@ -285,7 +285,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.18+8bda9ebe2b77decdeb69358f26afc47e4829bea7"
+    "version": "1.12.19+b57c40660a43d29b96df6ecd550eb88cca99c59d"
   },
   {
     "author": "Heremeus",
@@ -370,6 +370,12 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0"
+  },
+  {
+    "author": "HellRevenger",
+    "name": "Quick Area",
+    "steamId": "3252220145",
+    "version": "1.0.0.0"
   },
   {
     "author": "Madara Uchiha",
