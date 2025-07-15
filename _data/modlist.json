@@ -60,6 +60,12 @@
     "version": "4.7.272"
   },
   {
+    "author": "Linnun",
+    "name": "Auto-Cast Specialist Commands",
+    "steamId": "3459647882",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
@@ -159,7 +165,7 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.6.1+7b00293a3c6175e162a045bba18ffc87a3dd78c8"
+    "version": "0.7.0+b95c5c0a0bcf3134139735cd4471741186bb39cb"
   },
   {
     "author": "tiagocc0",
@@ -207,7 +213,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9287.37233"
+    "version": "1.0.9325.23395"
   },
   {
     "author": "Erin",
@@ -294,6 +300,12 @@
     "version": null
   },
   {
+    "author": "Alma",
+    "name": "Megumin Psycast",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kapitan Oczywisty",
     "name": "Minimal Light Control",
     "steamId": null,
@@ -304,6 +316,12 @@
     "name": "Misc. Training",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": "1992614103",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -505,7 +523,7 @@
   },
   {
     "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
     "steamId": "3239583412",
     "version": "1.5.0.1"
   },
