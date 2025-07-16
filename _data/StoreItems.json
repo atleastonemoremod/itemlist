@@ -12193,308 +12193,14 @@
 		"defname": "Shell_HighExplosive_HFuzed"
 	},
 	{
-		"abr": "advancedsensors",
-		"price": 10150,
-		"category": "",
-		"defname": "Ship_SensorClusterAdv"
-	},
-	{
-		"abr": "air-conpipe",
-		"price": 5,
-		"category": "",
-		"defname": "airPipe"
-	},
-	{
-		"abr": "airdrop",
-		"price": 1,
-		"category": "",
-		"defname": "Airdrop"
-	},
-	{
-		"abr": "alcyonitesolargenerator",
-		"price": 533,
-		"category": "",
-		"defname": "AB_AlcyoniteSolar"
-	},
-	{
-		"abr": "ancientbarrel",
-		"price": 1,
-		"category": "",
-		"defname": "AncientBarrel"
-	},
-	{
-		"abr": "ancientbed",
-		"price": 5,
-		"category": "",
-		"defname": "AncientBed"
-	},
-	{
-		"abr": "ancientcommsconsole",
-		"price": 12,
-		"category": "",
-		"defname": "AncientCommsConsole"
-	},
-	{
-		"abr": "ancientconcretebarrier",
-		"price": 51,
-		"category": "",
-		"defname": "AncientConcreteBarrier"
-	},
-	{
-		"abr": "ancientcrate",
-		"price": 2,
-		"category": "",
-		"defname": "AncientCrate"
-	},
-	{
-		"abr": "ancientcryptosleepcasket",
-		"price": 617,
-		"category": "",
-		"defname": "AncientCryptosleepCasket"
-	},
-	{
-		"abr": "ancientdisplaybank",
-		"price": 9,
-		"category": "",
-		"defname": "AncientDisplayBank"
-	},
-	{
-		"abr": "ancientenemyterminal",
-		"price": 6,
-		"category": "",
-		"defname": "AncientEnemyTerminal"
-	},
-	{
-		"abr": "ancientequipmentblocks",
-		"price": 12,
-		"category": "",
-		"defname": "AncientEquipmentBlocks"
-	},
-	{
-		"abr": "ancientgenerator",
-		"price": 1,
-		"category": "",
-		"defname": "AncientGenerator"
-	},
-	{
-		"abr": "ancientjohnson-tanakadrive",
-		"price": 8875,
-		"category": "",
-		"defname": "JTDriveSalvage"
-	},
-	{
-		"abr": "ancientlamppost",
-		"price": 50,
-		"category": "",
-		"defname": "AncientLamppost"
-	},
-	{
-		"abr": "ancientlockerbank",
-		"price": 5,
-		"category": "",
-		"defname": "AncientLockerBank"
-	},
-	{
-		"abr": "ancientmachine",
-		"price": 18,
-		"category": "",
-		"defname": "AncientMachine"
-	},
-	{
-		"abr": "ancientmilitarycrate",
-		"price": 2,
-		"category": "",
-		"defname": "AncientMilitaryCrate"
-	},
-	{
-		"abr": "ancientoperatingtable",
-		"price": 1,
-		"category": "",
-		"defname": "AncientOperatingTable"
-	},
-	{
-		"abr": "ancientspacercrate",
-		"price": 2,
-		"category": "",
-		"defname": "AncientSpacerCrate"
-	},
-	{
-		"abr": "ancientstoragecylinder",
-		"price": 12,
-		"category": "",
-		"defname": "AncientStorageCylinder"
-	},
-	{
-		"abr": "ancientsystemrack",
-		"price": 9,
-		"category": "",
-		"defname": "AncientSystemRack"
-	},
-	{
-		"abr": "ancientterminal",
-		"price": 6,
-		"category": "",
-		"defname": "AncientTerminal_Worshipful"
-	},
-	{
-		"abr": "ancientterminal",
-		"price": 6,
-		"category": "",
-		"defname": "AncientTerminal"
-	},
-	{
-		"abr": "ancientunstablefuelnode",
-		"price": 18,
-		"category": "",
-		"defname": "AncientFuelNode"
-	},
-	{
-		"abr": "animalflap",
-		"price": 88,
-		"category": "",
-		"defname": "AnimalFlap"
-	},
-	{
-		"abr": "anti-entropicheatbank",
-		"price": 2850,
-		"category": "",
-		"defname": "ShipHeatsinkAntiEntropy"
-	},
-	{
-		"abr": "antimatterreactor",
-		"price": 14317,
-		"category": "",
-		"defname": "ArchotechAntimatterReactor"
-	},
-	{
-		"abr": "antimatterthruster",
-		"price": 13067,
-		"category": "",
-		"defname": "Ship_Engine_Archotech"
-	},
-	{
 		"abr": "arcanefluid",
 		"price": 167,
 		"category": "Drugs",
 		"defname": "MG_ArcaneFluid"
 	},
 	{
-		"abr": "archotechhullcorner(1x1)",
-		"price": 143,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneOne"
-	},
-	{
-		"abr": "archotechhullcorner(1x1)flip",
-		"price": 143,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneOneFlip"
-	},
-	{
-		"abr": "archotechhullcorner(1x2)",
-		"price": 282,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneTwo"
-	},
-	{
-		"abr": "archotechhullcorner(1x2)flip",
-		"price": 282,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneTwoFlip"
-	},
-	{
-		"abr": "archotechhullcorner(1x3)",
-		"price": 417,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneThree"
-	},
-	{
-		"abr": "archotechhullcorner(1x3)flip",
-		"price": 417,
-		"category": "",
-		"defname": "Ship_Corner_Archo_OneThreeFlip"
-	},
-	{
-		"abr": "archotechhullplating",
-		"price": 48,
-		"category": "",
-		"defname": "ShipHullTileArchotech"
-	},
-	{
-		"abr": "archotechshieldgenerator",
-		"price": 15633,
-		"category": "",
-		"defname": "ArchotechShieldGenerator"
-	},
-	{
-		"abr": "archotechshipairlock",
-		"price": 1675,
-		"category": "",
-		"defname": "ShipAirlockArchotech"
-	},
-	{
-		"abr": "archotechshiphull",
-		"price": 350,
-		"category": "",
-		"defname": "Ship_BeamArchotech"
-	},
-	{
-		"abr": "archotechshiphull(unpowered)",
-		"price": 331,
-		"category": "",
-		"defname": "Ship_BeamArchotech_Unpowered"
-	},
-	{
-		"abr": "archotechshipvent",
-		"price": 467,
-		"category": "",
-		"defname": "ShipInside_PassiveVentArchotech"
-	},
-	{
-		"abr": "archotechsolargenerator",
-		"price": 1983,
-		"category": "",
-		"defname": "ShipInside_SolarGeneratorArchotech"
-	},
-	{
-		"abr": "archotechspore",
-		"price": 17800,
-		"category": "",
-		"defname": "ShipArchotechSpore"
-	},
-	{
-		"abr": "artilleryturret",
-		"price": 16633,
-		"category": "",
-		"defname": "ShipTurret_ACIII"
-	},
-	{
-		"abr": "autobong",
-		"price": 567,
-		"category": "",
-		"defname": "Autobong"
-	},
-	{
-		"abr": "autocannonturret",
-		"price": 2633,
-		"category": "",
-		"defname": "Turret_Autocannon"
-	},
-	{
-		"abr": "autodoor",
-		"price": 323,
-		"category": "",
-		"defname": "Autodoor"
-	},
-	{
-		"abr": "bandnode",
-		"price": 892,
-		"category": "",
-		"defname": "BandNode"
-	},
-	{
 		"abr": "baphomet",
-		"price": 3083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Baphomet"
 	},
@@ -12505,74 +12211,14 @@
 		"defname": "Meat_MG_Baphomet"
 	},
 	{
-		"abr": "barbedwire",
-		"price": 7,
-		"category": "",
-		"defname": "CE_BarbedWire"
-	},
-	{
-		"abr": "barricade",
-		"price": 19,
-		"category": "",
-		"defname": "Barricade"
-	},
-	{
-		"abr": "basicsensors",
-		"price": 3008,
-		"category": "",
-		"defname": "Ship_SensorCluster"
-	},
-	{
-		"abr": "beaverdam",
-		"price": 83,
-		"category": "",
-		"defname": "AEXP_BeaverDam"
-	},
-	{
-		"abr": "biofuelrefinery",
-		"price": 650,
-		"category": "",
-		"defname": "BiofuelRefinery"
-	},
-	{
 		"abr": "bionictail",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "MG_BionicTail"
 	},
 	{
-		"abr": "bonfire",
-		"price": 36,
-		"category": "",
-		"defname": "VME_BonfireAfterRitual"
-	},
-	{
-		"abr": "burnpit",
-		"price": 65,
-		"category": "",
-		"defname": "BurnPit"
-	},
-	{
-		"abr": "campfire",
-		"price": 41,
-		"category": "",
-		"defname": "Campfire"
-	},
-	{
-		"abr": "cannonturret",
-		"price": 2733,
-		"category": "",
-		"defname": "ShipTurret_ACI"
-	},
-	{
-		"abr": "capacitorarray",
-		"price": 7767,
-		"category": "",
-		"defname": "ShipCapacitor"
-	},
-	{
 		"abr": "catgirl",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Catgirl"
 	},
@@ -12590,7 +12236,7 @@
 	},
 	{
 		"abr": "centaur",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Centaur"
 	},
@@ -12601,50 +12247,8 @@
 		"defname": "Meat_MG_Centaur"
 	},
 	{
-		"abr": "chemfuelpoweredgenerator",
-		"price": 492,
-		"category": "",
-		"defname": "ChemfuelPoweredGenerator"
-	},
-	{
-		"abr": "cloakingdevice",
-		"price": 6442,
-		"category": "",
-		"defname": "ShipCloakingDevice"
-	},
-	{
-		"abr": "column",
-		"price": 71,
-		"category": "",
-		"defname": "Column"
-	},
-	{
-		"abr": "commsconsole",
-		"price": 608,
-		"category": "",
-		"defname": "CommsConsole"
-	},
-	{
-		"abr": "coolanttank",
-		"price": 1083,
-		"category": "",
-		"defname": "ShipHeatManifold"
-	},
-	{
-		"abr": "cooler",
-		"price": 458,
-		"category": "",
-		"defname": "Cooler"
-	},
-	{
-		"abr": "count-downactivator",
-		"price": 107,
-		"category": "",
-		"defname": "ActivatorCountdown"
-	},
-	{
 		"abr": "cowgirl",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Cowgirl"
 	},
@@ -12661,30 +12265,6 @@
 		"defname": "CowgirlMilk"
 	},
 	{
-		"abr": "crittersleepcaskets(32)",
-		"price": 4275,
-		"category": "",
-		"defname": "CrittersleepCasketLarge"
-	},
-	{
-		"abr": "crittersleepcaskets(8)",
-		"price": 1242,
-		"category": "",
-		"defname": "CrittersleepCasket"
-	},
-	{
-		"abr": "cryptonest",
-		"price": 558,
-		"category": "",
-		"defname": "Cryptonest"
-	},
-	{
-		"abr": "cryptosleepcasket",
-		"price": 1183,
-		"category": "",
-		"defname": "CryptosleepCasket"
-	},
-	{
 		"abr": "crystalblue",
 		"price": 83,
 		"category": "Drugs",
@@ -12697,38 +12277,8 @@
 		"defname": "CrystalGreen"
 	},
 	{
-		"abr": "damagedairlock",
-		"price": 251,
-		"category": "",
-		"defname": "ShipAirlockWrecked"
-	},
-	{
-		"abr": "darktorch",
-		"price": 41,
-		"category": "",
-		"defname": "Darktorch"
-	},
-	{
-		"abr": "deepwaterwell",
-		"price": 492,
-		"category": "",
-		"defname": "DeepWaterWellInlet"
-	},
-	{
-		"abr": "dockingclamp",
-		"price": 917,
-		"category": "",
-		"defname": "ShipAirlockBeam"
-	},
-	{
-		"abr": "door",
-		"price": 88,
-		"category": "",
-		"defname": "Door"
-	},
-	{
 		"abr": "dragon",
-		"price": 3667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Dragon"
 	},
@@ -12745,60 +12295,6 @@
 		"defname": "MG_Dragon_Scales"
 	},
 	{
-		"abr": "dronecore",
-		"price": 2842,
-		"category": "",
-		"defname": "Ship_DroneCore"
-	},
-	{
-		"abr": "electriccrematorium",
-		"price": 700,
-		"category": "",
-		"defname": "ElectricCrematorium"
-	},
-	{
-		"abr": "embrasure",
-		"price": 18,
-		"category": "",
-		"defname": "CE_Embrasure"
-	},
-	{
-		"abr": "emergencypurgeport",
-		"price": 2050,
-		"category": "",
-		"defname": "ShipPurgePort"
-	},
-	{
-		"abr": "exoticautodoor",
-		"price": 358,
-		"category": "",
-		"defname": "AB_ExoticAutoDoor"
-	},
-	{
-		"abr": "exoticcolumn",
-		"price": 88,
-		"category": "",
-		"defname": "AB_ExoticColumn"
-	},
-	{
-		"abr": "exoticdoor",
-		"price": 138,
-		"category": "",
-		"defname": "AB_ExoticDoor"
-	},
-	{
-		"abr": "exoticwall",
-		"price": 21,
-		"category": "",
-		"defname": "AB_ExoticWall"
-	},
-	{
-		"abr": "fabricationbench",
-		"price": 1967,
-		"category": "",
-		"defname": "FabricationBench"
-	},
-	{
 		"abr": "fakehorn",
 		"price": 17,
 		"category": "Prosthetic",
@@ -12811,18 +12307,6 @@
 		"defname": "MG_FakeTail"
 	},
 	{
-		"abr": "fence",
-		"price": 4,
-		"category": "",
-		"defname": "Fence"
-	},
-	{
-		"abr": "fencegate",
-		"price": 86,
-		"category": "",
-		"defname": "FenceGate"
-	},
-	{
 		"abr": "forestfairydust",
 		"price": 125,
 		"category": "Manufactured",
@@ -12830,7 +12314,7 @@
 	},
 	{
 		"abr": "forestfairy",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_ForestFairy"
 	},
@@ -12842,7 +12326,7 @@
 	},
 	{
 		"abr": "foxgirl",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Foxgirl"
 	},
@@ -12859,98 +12343,14 @@
 		"defname": "Meat_MG_Foxgirl"
 	},
 	{
-		"abr": "fungusdarktorch",
-		"price": 37,
-		"category": "",
-		"defname": "DarktorchFungus"
-	},
-	{
-		"abr": "geneassembler",
-		"price": 917,
-		"category": "",
-		"defname": "GeneAssembler"
-	},
-	{
-		"abr": "geneextractor",
-		"price": 1117,
-		"category": "",
-		"defname": "GeneExtractor"
-	},
-	{
-		"abr": "geneprocessor",
-		"price": 850,
-		"category": "",
-		"defname": "GeneProcessor"
-	},
-	{
-		"abr": "geothermalgenerator",
-		"price": 1575,
-		"category": "",
-		"defname": "GeothermalGenerator"
-	},
-	{
-		"abr": "geothermalheater",
-		"price": 1000,
-		"category": "",
-		"defname": "GeothermHeater"
-	},
-	{
-		"abr": "glittertechsalvagebay",
-		"price": 12992,
-		"category": "",
-		"defname": "ShipSalvageBayNano"
-	},
-	{
 		"abr": "goldenhorn",
 		"price": 6667,
 		"category": "Prosthetic",
 		"defname": "MG_GoldHorn"
 	},
 	{
-		"abr": "grandaltar",
-		"price": 1183,
-		"category": "",
-		"defname": "Altar_Grand"
-	},
-	{
-		"abr": "grandstele",
-		"price": 933,
-		"category": "",
-		"defname": "SteleGrand"
-	},
-	{
-		"abr": "grave",
-		"price": 5,
-		"category": "",
-		"defname": "Grave"
-	},
-	{
-		"abr": "ground-penetratingscanner",
-		"price": 1092,
-		"category": "",
-		"defname": "GroundPenetratingScanner"
-	},
-	{
-		"abr": "growthvat",
-		"price": 733,
-		"category": "",
-		"defname": "GrowthVat"
-	},
-	{
-		"abr": "guestancientbed",
-		"price": 5,
-		"category": "",
-		"defname": "AncientBedGuest"
-	},
-	{
-		"abr": "hardpoint",
-		"price": 567,
-		"category": "",
-		"defname": "ShipHardpoint"
-	},
-	{
 		"abr": "harpy",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Harpy"
 	},
@@ -12973,182 +12373,14 @@
 		"defname": "Meat_MG_Harpy"
 	},
 	{
-		"abr": "heatsink",
-		"price": 1483,
-		"category": "",
-		"defname": "ShipHeatsink"
-	},
-	{
-		"abr": "heavyshuttle",
-		"price": 7375,
-		"category": "",
-		"defname": "SoS2_Shuttle_Heavy_Blueprint"
-	},
-	{
-		"abr": "hermeticcrate",
-		"price": 6,
-		"category": "",
-		"defname": "AncientHermeticCrate"
-	},
-	{
-		"abr": "hexagelcorereactor",
-		"price": 3408,
-		"category": "",
-		"defname": "AA_HexagelCoreReactor"
-	},
-	{
-		"abr": "hiddenconduit",
-		"price": 8,
-		"category": "",
-		"defname": "HiddenConduit"
-	},
-	{
-		"abr": "hi-techresearchbench",
-		"price": 1383,
-		"category": "",
-		"defname": "HiTechResearchBench"
-	},
-	{
-		"abr": "hopper",
-		"price": 49,
-		"category": "",
-		"defname": "Hopper"
-	},
-	{
-		"abr": "hugewatertower",
-		"price": 717,
-		"category": "",
-		"defname": "WaterTowerL"
-	},
-	{
-		"abr": "hullcorner(1x1)",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne"
-	},
-	{
-		"abr": "hullcorner(1x1)",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne_Mech"
-	},
-	{
-		"abr": "hullcorner(1x1)flip",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOneFlip"
-	},
-	{
-		"abr": "hullcorner(1x1)flip",
-		"price": 60,
-		"category": "",
-		"defname": "Ship_Corner_OneOne_MechFlip"
-	},
-	{
-		"abr": "hullcorner(1x2)",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwo"
-	},
-	{
-		"abr": "hullcorner(1x2)",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwo_Mech"
-	},
-	{
-		"abr": "hullcorner(1x2)flip",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwoFlip"
-	},
-	{
-		"abr": "hullcorner(1x2)flip",
-		"price": 115,
-		"category": "",
-		"defname": "Ship_Corner_OneTwoFlip_Mech"
-	},
-	{
-		"abr": "hullcorner(1x3)",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThree"
-	},
-	{
-		"abr": "hullcorner(1x3)",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThree_Mech"
-	},
-	{
-		"abr": "hullcorner(1x3)flip",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThreeFlip"
-	},
-	{
-		"abr": "hullcorner(1x3)flip",
-		"price": 171,
-		"category": "",
-		"defname": "Ship_Corner_OneThreeFlip_Mech"
-	},
-	{
-		"abr": "hullplating",
-		"price": 30,
-		"category": "",
-		"defname": "ShipHullTile"
-	},
-	{
-		"abr": "hullwreckage",
-		"price": 19,
-		"category": "",
-		"defname": "ShipHullTileWrecked"
-	},
-	{
-		"abr": "hullwreckage",
-		"price": 1,
-		"category": "",
-		"defname": "ShipHullTileWreckedFake"
-	},
-	{
-		"abr": "hullfoam",
-		"price": 34,
-		"category": "",
-		"defname": "HullFoamWall"
-	},
-	{
-		"abr": "hullfoamdistributor",
-		"price": 2208,
-		"category": "",
-		"defname": "HullFoamDistributor"
-	},
-	{
-		"abr": "hullfoamplating",
-		"price": 34,
-		"category": "",
-		"defname": "ShipHullfoamTile"
-	},
-	{
-		"abr": "hydroponicsbasin",
-		"price": 383,
-		"category": "",
-		"defname": "HydroponicsBasin"
-	},
-	{
 		"abr": "icefairydust",
 		"price": 35,
 		"category": "Manufactured",
 		"defname": "IceFairyDust"
 	},
 	{
-		"abr": "icewall",
-		"price": 17,
-		"category": "",
-		"defname": "VPE_IceWall"
-	},
-	{
 		"abr": "icefairy",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_IceFairy"
 	},
@@ -13159,118 +12391,10 @@
 		"defname": "Meat_MG_IceFairy"
 	},
 	{
-		"abr": "ideogram",
-		"price": 308,
-		"category": "",
-		"defname": "Ideogram"
-	},
-	{
 		"abr": "jadehorn",
 		"price": 667,
 		"category": "Prosthetic",
 		"defname": "MG_JadeHorn"
-	},
-	{
-		"abr": "johnson-tanakadrive",
-		"price": 15542,
-		"category": "",
-		"defname": "Ship_Engine_Interplanetary"
-	},
-	{
-		"abr": "largealtar",
-		"price": 783,
-		"category": "",
-		"defname": "Altar_Large"
-	},
-	{
-		"abr": "largecannonturret",
-		"price": 6175,
-		"category": "",
-		"defname": "ShipTurret_ACII"
-	},
-	{
-		"abr": "largecoolanttank",
-		"price": 5425,
-		"category": "",
-		"defname": "ShipHeatBankLarge"
-	},
-	{
-		"abr": "largeemergencypurgeport",
-		"price": 10892,
-		"category": "",
-		"defname": "ShipPurgePortLarge"
-	},
-	{
-		"abr": "largehardpoint",
-		"price": 1133,
-		"category": "",
-		"defname": "ShipHardpointExtraMedium"
-	},
-	{
-		"abr": "largeheatsink",
-		"price": 7400,
-		"category": "",
-		"defname": "ShipHeatsinkLarge"
-	},
-	{
-		"abr": "largejohnson-tanakadrive",
-		"price": 35342,
-		"category": "",
-		"defname": "Ship_Engine_Interplanetary_Large"
-	},
-	{
-		"abr": "largelaserturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Laser_Large"
-	},
-	{
-		"abr": "largemechgestator",
-		"price": 1367,
-		"category": "",
-		"defname": "LargeMechGestator"
-	},
-	{
-		"abr": "largemechrecharger",
-		"price": 950,
-		"category": "",
-		"defname": "StandardRecharger"
-	},
-	{
-		"abr": "largeplasmaturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Plasma_Large"
-	},
-	{
-		"abr": "largerailgunturret",
-		"price": 9208,
-		"category": "",
-		"defname": "ShipTurret_Kinetic_Large"
-	},
-	{
-		"abr": "largeshuttlebay",
-		"price": 4942,
-		"category": "",
-		"defname": "ShipShuttleBayLarge"
-	},
-	{
-		"abr": "largestele",
-		"price": 467,
-		"category": "",
-		"defname": "SteleLarge"
-	},
-	{
-		"abr": "laserturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Laser"
-	},
-	{
-		"abr": "lifesupportsystem",
-		"price": 5458,
-		"category": "",
-		"defname": "Ship_LifeSupport"
 	},
 	{
 		"abr": "liquidamber",
@@ -13279,406 +12403,10 @@
 		"defname": "LiquidAmber"
 	},
 	{
-		"abr": "longabandonedshippart",
-		"price": 917,
-		"category": "",
-		"defname": "AB_AbandonedShipPart"
-	},
-	{
-		"abr": "long-rangemineralscanner",
-		"price": 1683,
-		"category": "",
-		"defname": "LongRangeMineralScanner"
-	},
-	{
-		"abr": "mechassembler",
-		"price": 467,
-		"category": "",
-		"defname": "MechAssembler"
-	},
-	{
-		"abr": "mechcapsule",
-		"price": 467,
-		"category": "",
-		"defname": "MechCapsule"
-	},
-	{
-		"abr": "mechdropbeacon",
-		"price": 105,
-		"category": "",
-		"defname": "MechDropBeacon"
-	},
-	{
-		"abr": "mechgestator",
-		"price": 683,
-		"category": "",
-		"defname": "MechGestator"
-	},
-	{
-		"abr": "mechhigh-shield",
-		"price": 1667,
-		"category": "",
-		"defname": "ShieldGeneratorMortar"
-	},
-	{
-		"abr": "mechlow-shield",
-		"price": 1667,
-		"category": "",
-		"defname": "ShieldGeneratorBullets"
-	},
-	{
-		"abr": "mechrecharger",
-		"price": 500,
-		"category": "",
-		"defname": "BasicRecharger"
-	},
-	{
-		"abr": "mechanoidhullplating",
-		"price": 30,
-		"category": "",
-		"defname": "ShipHullTileMech"
-	},
-	{
-		"abr": "mechanoidshipairlock",
-		"price": 842,
-		"category": "",
-		"defname": "ShipAirlockMech"
-	},
-	{
-		"abr": "mechanoidshiphull",
-		"price": 174,
-		"category": "",
-		"defname": "Ship_BeamMech"
-	},
-	{
-		"abr": "mechanoidshiphull(unpowered)",
-		"price": 152,
-		"category": "",
-		"defname": "Ship_BeamMech_Unpowered"
-	},
-	{
-		"abr": "mechanoidshipvent",
-		"price": 301,
-		"category": "",
-		"defname": "ShipInside_PassiveVentMechanoid"
-	},
-	{
-		"abr": "mechanoidsolargenerator",
-		"price": 1233,
-		"category": "",
-		"defname": "ShipInside_SolarGeneratorMech"
-	},
-	{
-		"abr": "mechbandantenna",
-		"price": 417,
-		"category": "",
-		"defname": "BurnoutMechlinkBooster"
-	},
-	{
-		"abr": "mechbanddish",
-		"price": 1325,
-		"category": "",
-		"defname": "MechbandDish"
-	},
-	{
-		"abr": "medquarry",
-		"price": 442,
-		"category": "",
-		"defname": "QRY_MediQuarry"
-	},
-	{
-		"abr": "mediumaltar",
-		"price": 425,
-		"category": "",
-		"defname": "Altar_Medium"
-	},
-	{
-		"abr": "miniquarry",
-		"price": 260,
-		"category": "",
-		"defname": "QRY_MiniQuarry"
-	},
-	{
-		"abr": "miniaturizedshieldgenerator",
-		"price": 2175,
-		"category": "",
-		"defname": "ShipCombatShieldGeneratorMini"
-	},
-	{
-		"abr": "moisturepump",
-		"price": 458,
-		"category": "",
-		"defname": "MoisturePump"
-	},
-	{
-		"abr": "nuclearengine",
-		"price": 7483,
-		"category": "",
-		"defname": "Ship_Engine_Large"
-	},
-	{
-		"abr": "nutrientpastedispenser",
-		"price": 567,
-		"category": "",
-		"defname": "NutrientPasteDispenser"
-	},
-	{
-		"abr": "ornatedoor",
-		"price": 1175,
-		"category": "",
-		"defname": "OrnateDoor"
-	},
-	{
-		"abr": "over-wallcooler",
-		"price": 458,
-		"category": "",
-		"defname": "Cooler_Over"
-	},
-	{
-		"abr": "over-wallcooler(wide)",
-		"price": 458,
-		"category": "",
-		"defname": "Cooler_Over2W"
-	},
-	{
-		"abr": "over-wallvent",
-		"price": 97,
-		"category": "",
-		"defname": "Vent_Over"
-	},
-	{
-		"abr": "passivecooler",
-		"price": 101,
-		"category": "",
-		"defname": "PassiveCooler"
-	},
-	{
-		"abr": "personalshuttle",
-		"price": 2225,
-		"category": "",
-		"defname": "SoS2_Shuttle_Personal_Blueprint"
-	},
-	{
-		"abr": "pilotconsole",
-		"price": 425,
-		"category": "",
-		"defname": "ShipPilotSeatMini"
-	},
-	{
-		"abr": "plasmaturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Plasma"
-	},
-	{
 		"abr": "plasteelhorn",
 		"price": 833,
 		"category": "Prosthetic",
 		"defname": "MG_PlasteelHorn"
-	},
-	{
-		"abr": "plumbing",
-		"price": 5,
-		"category": "",
-		"defname": "sewagePipeStuff"
-	},
-	{
-		"abr": "podlauncher",
-		"price": 230,
-		"category": "",
-		"defname": "PodLauncher"
-	},
-	{
-		"abr": "powerconduit",
-		"price": 3,
-		"category": "",
-		"defname": "PowerConduit"
-	},
-	{
-		"abr": "powerconduit",
-		"price": 3,
-		"category": "",
-		"defname": "KCSG_PowerConduit"
-	},
-	{
-		"abr": "powerswitch",
-		"price": 102,
-		"category": "",
-		"defname": "PowerSwitch"
-	},
-	{
-		"abr": "primitivewell",
-		"price": 95,
-		"category": "",
-		"defname": "PrimitiveWell"
-	},
-	{
-		"abr": "propanepump",
-		"price": 575,
-		"category": "",
-		"defname": "AB_PropanePump"
-	},
-	{
-		"abr": "proximityactivator",
-		"price": 107,
-		"category": "",
-		"defname": "ActivatorProximity"
-	},
-	{
-		"abr": "pumpingstation",
-		"price": 567,
-		"category": "",
-		"defname": "PumpingStation"
-	},
-	{
-		"abr": "quarry",
-		"price": 617,
-		"category": "",
-		"defname": "QRY_Quarry"
-	},
-	{
-		"abr": "quarryplatform",
-		"price": 168,
-		"category": "",
-		"defname": "QRY_Platform"
-	},
-	{
-		"abr": "railgunturret",
-		"price": 3033,
-		"category": "",
-		"defname": "ShipTurret_Kinetic"
-	},
-	{
-		"abr": "rcsthruster",
-		"price": 483,
-		"category": "",
-		"defname": "Ship_Thruster"
-	},
-	{
-		"abr": "reliquary",
-		"price": 2492,
-		"category": "",
-		"defname": "Reliquary"
-	},
-	{
-		"abr": "rocketengine",
-		"price": 2117,
-		"category": "",
-		"defname": "Ship_Engine"
-	},
-	{
-		"abr": "rocketswarmlauncher",
-		"price": 1817,
-		"category": "",
-		"defname": "Turret_RocketswarmLauncher"
-	},
-	{
-		"abr": "salvagebay",
-		"price": 3575,
-		"category": "",
-		"defname": "ShipSalvageBay"
-	},
-	{
-		"abr": "sandbags",
-		"price": 18,
-		"category": "",
-		"defname": "Sandbags"
-	},
-	{
-		"abr": "sarcophagus",
-		"price": 214,
-		"category": "",
-		"defname": "Sarcophagus"
-	},
-	{
-		"abr": "scienceconsole",
-		"price": 425,
-		"category": "",
-		"defname": "ShipConsoleScience"
-	},
-	{
-		"abr": "securitycrate",
-		"price": 12,
-		"category": "",
-		"defname": "AncientSecurityCrate"
-	},
-	{
-		"abr": "septictank",
-		"price": 658,
-		"category": "",
-		"defname": "SewageSepticTank"
-	},
-	{
-		"abr": "sewageoutlet",
-		"price": 176,
-		"category": "",
-		"defname": "SewageOutlet"
-	},
-	{
-		"abr": "sewagetreatment",
-		"price": 1725,
-		"category": "",
-		"defname": "SewageTreatment"
-	},
-	{
-		"abr": "shieldgenerator",
-		"price": 7308,
-		"category": "",
-		"defname": "ShipCombatShieldGenerator"
-	},
-	{
-		"abr": "shipairlock",
-		"price": 842,
-		"category": "",
-		"defname": "ShipAirlock"
-	},
-	{
-		"abr": "shipcryptosleepcasket",
-		"price": 1517,
-		"category": "",
-		"defname": "Ship_CryptosleepCasket"
-	},
-	{
-		"abr": "shipfissionreactor",
-		"price": 11717,
-		"category": "",
-		"defname": "Ship_Reactor"
-	},
-	{
-		"abr": "shiphull",
-		"price": 174,
-		"category": "",
-		"defname": "Ship_Beam"
-	},
-	{
-		"abr": "shiphull",
-		"price": 10,
-		"category": "",
-		"defname": "Ship_FakeBeam"
-	},
-	{
-		"abr": "shiphull(unpowered)",
-		"price": 152,
-		"category": "",
-		"defname": "Ship_Beam_Unpowered"
-	},
-	{
-		"abr": "shipvent",
-		"price": 301,
-		"category": "",
-		"defname": "ShipInside_PassiveVent"
-	},
-	{
-		"abr": "shuttle",
-		"price": 4575,
-		"category": "",
-		"defname": "SoS2_Shuttle_Standard_Blueprint"
-	},
-	{
-		"abr": "shuttlebay",
-		"price": 3575,
-		"category": "",
-		"defname": "ShipShuttleBay"
 	},
 	{
 		"abr": "silverhorn",
@@ -13688,7 +12416,7 @@
 	},
 	{
 		"abr": "slime",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MG_Slime"
 	},
@@ -13711,101 +12439,149 @@
 		"defname": "Meat_MG_Slime"
 	},
 	{
-		"abr": "smallaltar",
-		"price": 197,
-		"category": "",
-		"defname": "Altar_Small"
+		"abr": "psytrainer(bakuretsu)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_Bakuretsu"
 	},
 	{
-		"abr": "smallfissionreactor",
-		"price": 4250,
-		"category": "",
-		"defname": "Ship_Reactor_Small"
+		"abr": "psytrainer(dustyblind)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_DustyBlind"
 	},
 	{
-		"abr": "smallhardpoint",
-		"price": 367,
-		"category": "",
-		"defname": "ShipHardpointSmall"
+		"abr": "psytrainer(ekusuporosion)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_Ekusuporosion"
 	},
 	{
-		"abr": "smalllifesupportsystem",
-		"price": 6483,
-		"category": "",
-		"defname": "Ship_LifeSupport_Small"
+		"abr": "psytrainer(fastcast)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_FastCast"
 	},
 	{
-		"abr": "smallrocketengine",
-		"price": 1058,
-		"category": "",
-		"defname": "Ship_Engine_Small"
+		"abr": "psytrainer(firepower)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_FirePower"
 	},
 	{
-		"abr": "smoothedancientmetal",
-		"price": 30,
-		"category": "",
-		"defname": "AB_SmoothedAncientMetals"
+		"abr": "psytrainer(powersurge)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_PowerSurge"
 	},
 	{
-		"abr": "smoothedcragstone",
-		"price": 30,
-		"category": "",
-		"defname": "AB_SmoothedCragstone"
+		"abr": "psytrainer(skyblast)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_SkyBlast"
 	},
 	{
-		"abr": "smoothedmudstone",
-		"price": 30,
-		"category": "",
-		"defname": "AB_SmoothedMudstone"
+		"abr": "psytrainer(skysurge)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_SkySurge"
 	},
 	{
-		"abr": "smoothedobsidian",
-		"price": 30,
-		"category": "",
-		"defname": "AB_SmoothedObsidian"
+		"abr": "psytrainer(superrange)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_SuperRange"
 	},
 	{
-		"abr": "smoothedquartz",
-		"price": 30,
-		"category": "",
-		"defname": "GU_SmoothedQuartz"
+		"abr": "psytrainer(ultratriple)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Alma_VPE_UltraTriple"
 	},
 	{
-		"abr": "smoothedslime",
-		"price": 30,
-		"category": "",
-		"defname": "AB_SmoothedSlimeStone"
+		"abr": "steelhorn",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "MG_SteelHorn"
 	},
 	{
-		"abr": "solargenerator",
-		"price": 492,
-		"category": "",
-		"defname": "SolarGenerator"
+		"abr": "supercooledcream",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "SupercooledCream"
 	},
 	{
-		"abr": "solargenerator",
-		"price": 1233,
-		"category": "",
-		"defname": "ShipInside_SolarGenerator"
+		"abr": "thrumbogirl",
+		"price": -10,
+		"category": "Animal",
+		"defname": "MG_Thrumbogirl"
 	},
 	{
-		"abr": "solarheater",
-		"price": 244,
-		"category": "",
-		"defname": "SolarHeater"
+		"abr": "thrumbogirlhorn",
+		"price": 1000,
+		"category": "Items",
+		"defname": "MG_ThrumboGirlHorn"
 	},
 	{
-		"abr": "spinalamplifier",
-		"price": 2933,
-		"category": "",
-		"defname": "ShipSpinalAmplifier"
+		"abr": "thrumbogirlmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MG_Thrumbogirl"
 	},
 	{
-		"abr": "spinalbarrel:disassembler",
-		"price": 13700,
-		"category": "",
-		"defname": "ShipSpinalBarrelMechanite"
+		"abr": "thrumbogirlwool",
+		"price": 23,
+		"category": "Wools",
+		"defname": "MG_ThrumbogirlWool"
+	},
+	{
+		"abr": "wolfgirl",
+		"price": -10,
+		"category": "Animal",
+		"defname": "MG_Wolfgirl"
+	},
+	{
+		"abr": "wolfgirlfur",
+		"price": 17,
+		"category": "Wools",
+		"defname": "WolfgirlFur"
+	},
+	{
+		"abr": "wolfgirlmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MG_Wolfgirl"
+	},
+	{
+		"abr": "chemfueldrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VCHE_ChemfuelDrain"
+	},
+	{
+		"abr": "chemfueltap",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VCHE_ChemfuelTap"
+	},
+	{
+		"abr": "deepchem",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "VCHE_Deepchem"
+	},
+	{
+		"abr": "deepchemdrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VCHE_DeepchemDrain"
+	},
+	{
+		"abr": "deepchempumpjack",
+		"price": 750,
+		"category": "Production",
+		"defname": "VCHE_DeepchemPumpjack"
 	},
 	],
-	"total": 2334
+	"total": 2099
 }

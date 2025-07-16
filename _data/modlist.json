@@ -18,6 +18,24 @@
     "version": "11.0.5"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "\"Cruel Moose\"",
+    "name": "\"SOS2 Hull Pipes\"",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -66,16 +84,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
+    "author": "HellRevenger",
+    "name": "Batch Install",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CE Team",
@@ -222,6 +234,12 @@
     "version": "1.0.8865.27182"
   },
   {
+    "author": "Citrus",
+    "name": "Expectations Modifier",
+    "steamId": "1904336011",
+    "version": "3.2.3.0"
+  },
+  {
     "author": "YukiAiko",
     "name": "FPS And TPS",
     "steamId": "3264612179",
@@ -244,6 +262,12 @@
     "name": "Food Alert (Continued)",
     "steamId": "2017538067",
     "version": "1.6.0"
+  },
+  {
+    "author": "HRG164hjo",
+    "name": "Fuel Pipenet for SOS2",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -544,6 +568,12 @@
     "name": "Vanilla Brewing Expanded",
     "steamId": "2186560858",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
