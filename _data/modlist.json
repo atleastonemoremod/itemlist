@@ -222,6 +222,12 @@
     "version": "1.2.7365"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
@@ -315,7 +321,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.19+b57c40660a43d29b96df6ecd550eb88cca99c59d"
+    "version": "1.12.20+30c308d6228c29f03e2a3138829df73ded68e7df"
   },
   {
     "author": "Heremeus",
@@ -390,12 +396,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Densevoid",
-    "name": "Personal Work Categories",
-    "steamId": "2722053051",
-    "version": "1.5"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -412,6 +412,12 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0"
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced (Continued)",
+    "steamId": "2850854272",
+    "version": "1.5.9"
   },
   {
     "author": "HellRevenger",
@@ -612,6 +618,18 @@
     "version": "1.0.0"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": "2069684319",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] No Default Shelf Storage",
     "steamId": null,
@@ -628,12 +646,6 @@
     "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.5/1.6]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
   },
   {
     "author": "lmgginspace",
