@@ -177,7 +177,7 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.7.0+b95c5c0a0bcf3134139735cd4471741186bb39cb"
+    "version": "0.8.0+34b386a8b3a13dc64342d4657ac587050e446b3b"
   },
   {
     "author": "tiagocc0",
@@ -196,6 +196,12 @@
     "name": "Craft with Color",
     "steamId": "2795998250",
     "version": "1.5.0.0"
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
   },
   {
     "author": "telardo",
@@ -484,6 +490,12 @@
     "name": "Social Experience from Trade",
     "steamId": "3400608063",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BlackSparrow",
+    "name": "Solar Flares Disable Mechanoids",
+    "steamId": "3501602388",
+    "version": "0.0.0.0"
   },
   {
     "author": "Lee",
