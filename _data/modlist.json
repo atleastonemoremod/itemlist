@@ -168,16 +168,22 @@
     "version": null
   },
   {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.7.8882.41522"
+  },
+  {
     "author": "ilyvion",
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
-    "version": "0.15.1+69724affc2a710e4bd75c236835e991170a62ced"
+    "version": "0.15.2+1fec3c6d9230b5899a7d0043deab7bb27eadf1e6"
   },
   {
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.8.0+34b386a8b3a13dc64342d4657ac587050e446b3b"
+    "version": "0.10.0+ea2e6422baca200106bd14138c22045a4e6e93f6"
   },
   {
     "author": "tiagocc0",
@@ -628,6 +634,12 @@
     "name": "Work Tab",
     "steamId": "3253535347",
     "version": "1.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[CP] Metal Gear Solid - Incident Sounds 2",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",

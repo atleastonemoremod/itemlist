@@ -3177,7 +3177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "ComponentSpacer": {
     "CustomName": null,
@@ -13777,7 +13777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Doom"
   },
   "AA_BloodShrimp": {
     "CustomName": null,
@@ -14197,7 +14197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "AA_Drainer": {
     "CustomName": null,
@@ -14217,7 +14217,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Doom"
   },
   "AA_Dunealisk": {
     "CustomName": null,
@@ -14257,7 +14257,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Doom"
   },
   "AA_DuskProwler": {
     "CustomName": null,
@@ -14426,7 +14426,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -14437,7 +14437,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": "Bad"
+    "KarmaType": "Doom"
   },
   "AA_FireWasp": {
     "CustomName": null,
@@ -14477,7 +14477,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "AA_FissionMouseSecond": {
     "CustomName": null,
@@ -14497,7 +14497,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "AA_FissionMouseThird": {
     "CustomName": null,
@@ -14517,7 +14517,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "AA_FlamingoPhoenix": {
     "CustomName": null,
@@ -26877,7 +26877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Save Our Ship 2",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "ShipTorpedo_Antimatter": {
     "CustomName": null,
