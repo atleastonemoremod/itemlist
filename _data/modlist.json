@@ -84,6 +84,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "DimonSever000",
+    "name": "Backstory Constructor",
+    "steamId": "2907131508",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "HellRevenger",
     "name": "Batch Install",
     "steamId": null,
@@ -279,7 +285,7 @@
     "author": "Mlie",
     "name": "Food Alert (Continued)",
     "steamId": "2017538067",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "HRG164hjo",
@@ -333,17 +339,11 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.20+30c308d6228c29f03e2a3138829df73ded68e7df"
+    "version": "1.12.21+651341b315d95aeea69c6c135a55e57dc9a7ae8a"
   },
   {
     "author": "Heremeus",
     "name": "Medical Dissection",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alma",
-    "name": "Megumin Psycast",
     "steamId": null,
     "version": null
   },
@@ -438,6 +438,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.9.0.0"
+  },
+  {
     "author": "Madara Uchiha",
     "name": "Reminders",
     "steamId": null,
@@ -459,7 +465,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.33"
+    "version": "1.6.1"
   },
   {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
@@ -472,6 +478,12 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.16.1.0"
+  },
+  {
+    "author": "Spdskatr",
+    "name": "SS Lightning Rod (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis and Nandonalt",
