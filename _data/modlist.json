@@ -18,24 +18,6 @@
     "version": "11.0.5"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "\"Cruel Moose\"",
-    "name": "\"SOS2 Hull Pipes\"",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -144,6 +126,12 @@
     "version": "1.0.17.0"
   },
   {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": "2506046833",
+    "version": "1.5.0.3"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -189,7 +177,7 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.10.0+ea2e6422baca200106bd14138c22045a4e6e93f6"
+    "version": "0.11.0+8c16883c53ccbdb21ba54f7a8283ec6a11e0a7b2"
   },
   {
     "author": "tiagocc0",
@@ -258,12 +246,6 @@
     "version": "1.0.8865.27182"
   },
   {
-    "author": "Citrus",
-    "name": "Expectations Modifier",
-    "steamId": "1904336011",
-    "version": "3.2.3.0"
-  },
-  {
     "author": "YukiAiko",
     "name": "FPS And TPS",
     "steamId": "3264612179",
@@ -288,10 +270,10 @@
     "version": "1.6.1"
   },
   {
-    "author": "HRG164hjo",
-    "name": "Fuel Pipenet for SOS2",
-    "steamId": null,
-    "version": null
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": "2279786905",
+    "version": "1.5.0.4"
   },
   {
     "author": "Uuugggg",
@@ -310,6 +292,12 @@
     "name": "Hospitality",
     "steamId": "753498552",
     "version": "1.5.0.8"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": "",
+    "version": "1.0.0+71bad510a0b3856a501c4e38738bc65cb90b14df"
   },
   {
     "author": "Imranfish",
@@ -606,6 +594,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
@@ -642,16 +636,16 @@
     "version": null
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fluffy (Arof and DomB)",
     "name": "Work Tab",
     "steamId": "3253535347",
     "version": "1.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[CP] Metal Gear Solid - Incident Sounds 2",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Syrchalis",
