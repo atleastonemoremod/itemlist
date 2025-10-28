@@ -7,12 +7,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
-      "stats": [],
+      "stats": [
+        "+8.0% projectile dodge chance"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+8.0% projectile dodge chance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -56,6 +60,7 @@
       "degree": 0,
       "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
+        "Group meditation focus type allowed.",
         "x200% global certainty loss factor"
       ],
       "conflicts": [
@@ -69,6 +74,7 @@
           "psychopath"
         ],
         "stats": [
+          "Group meditation focus type allowed.",
           "x200% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -89,7 +95,8 @@
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
         "Morbid meditation focus type allowed.",
-        "x50% global certainty loss factor"
+        "x50% global certainty loss factor",
+        "x50% sanity multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
@@ -97,7 +104,8 @@
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed.",
-          "x50% global certainty loss factor"
+          "x50% global certainty loss factor",
+          "x50% sanity multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -142,6 +150,7 @@
       "degree": 0,
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
+        "+3 melee",
         "x50% global certainty loss factor"
       ],
       "conflicts": [],
@@ -149,6 +158,7 @@
       "data": {
         "conflicts": [],
         "stats": [
+          "+3 melee",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -168,8 +178,10 @@
       "degree": 0,
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
+        "Science meditation focus type allowed.",
         "+75% global learning factor",
         "+12% mental break threshold",
+        "-75.00% sanity loss multiplier",
         "x50% global certainty loss factor"
       ],
       "conflicts": [
@@ -189,8 +201,10 @@
           "slowlearner"
         ],
         "stats": [
+          "Science meditation focus type allowed.",
           "+75% global learning factor",
           "+12% mental break threshold",
+          "-75.00% sanity loss multiplier",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -213,9 +227,7 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-10 shooting",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -233,9 +245,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-10 shooting",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance"
+          "+4.0 melee hit chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -305,7 +315,11 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
-      "stats": [],
+      "stats": [
+        "Wealth meditation focus type allowed.",
+        "x133% eating speed",
+        "x150% carrying capacity"
+      ],
       "conflicts": [
         "ascetic",
         "jealous"
@@ -316,7 +330,11 @@
           "ascetic",
           "jealous"
         ],
-        "stats": [],
+        "stats": [
+          "Wealth meditation focus type allowed.",
+          "x133% eating speed",
+          "x150% carrying capacity"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -334,7 +352,10 @@
       "degree": 0,
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
-        "Morbid meditation focus type allowed."
+        "Morbid meditation focus type allowed.",
+        "+3 social",
+        "x115% negotiation ability",
+        "x115% trade price improvement"
       ],
       "conflicts": [
         "ascetic",
@@ -347,7 +368,10 @@
           "greedy"
         ],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbid meditation focus type allowed.",
+          "+3 social",
+          "x115% negotiation ability",
+          "x115% trade price improvement"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -469,12 +493,18 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
-      "stats": [],
+      "stats": [
+        "x110% move speed",
+        "x150% recreation power"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "x110% move speed",
+          "x150% recreation power"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -512,10 +542,11 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
+      "description": "Timmy loves to start and watch fires. he get stressed and anxious if not allowed to do so for an extended period of time, but will be happier if allowed to do so. he also enjoys using incendiary weapons and will only go on fire-starting sprees when having a mental break.",
       "stats": [
         "Flame meditation focus type allowed.",
-        "Only mental break \"FireStartingSpree\" allowed."
+        "Only mental break \"FireStartingSpree\" allowed.",
+        "x115% max comfortable temperature"
       ],
       "conflicts": [],
       "bypassLimit": false,
@@ -523,7 +554,8 @@
         "conflicts": [],
         "stats": [
           "Flame meditation focus type allowed.",
-          "Only mental break \"FireStartingSpree\" allowed."
+          "Only mental break \"FireStartingSpree\" allowed.",
+          "x115% max comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -542,8 +574,10 @@
       "degree": 0,
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
+        "+3 medical",
         "-50% pain shock threshold",
-        "x200% global certainty loss factor"
+        "x200% global certainty loss factor",
+        "x120% move speed"
       ],
       "conflicts": [
         "brawler",
@@ -556,8 +590,10 @@
           "masochist"
         ],
         "stats": [
+          "+3 medical",
           "-50% pain shock threshold",
-          "x200% global certainty loss factor"
+          "x200% global certainty loss factor",
+          "x120% move speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -576,7 +612,7 @@
       "degree": 0,
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+0.5 melee dodge chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -584,7 +620,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+0.5 melee dodge chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ],
         "canBypassLimit": false,
@@ -631,7 +667,9 @@
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
         "-75% global learning factor",
-        "x50% global certainty loss factor"
+        "x50% global certainty loss factor",
+        "x110% global work speed",
+        "x125% general labor speed"
       ],
       "conflicts": [
         "toosmart"
@@ -643,7 +681,9 @@
         ],
         "stats": [
           "-75% global learning factor",
-          "x50% global certainty loss factor"
+          "x50% global certainty loss factor",
+          "x110% global work speed",
+          "x125% general labor speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -806,14 +846,14 @@
       "degree": 0,
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
-        "x66% incoming damage multiplier"
+        "x70% incoming damage multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "x66% incoming damage multiplier"
+          "x70% incoming damage multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -832,14 +872,30 @@
       "degree": 0,
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
-        "Morbid meditation focus type allowed."
+        "Go frenzy inspiration disabled.",
+        "Shoot frenzy inspiration disabled.",
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "Inspired surgery inspiration disabled.",
+        "Inspired taming inspiration disabled.",
+        "Morbid meditation focus type allowed.",
+        "+2 artistic",
+        "+25.00% sanity loss multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Go frenzy inspiration disabled.",
+          "Shoot frenzy inspiration disabled.",
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "Inspired surgery inspiration disabled.",
+          "Inspired taming inspiration disabled.",
+          "Morbid meditation focus type allowed.",
+          "+2 artistic",
+          "+25.00% sanity loss multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -859,7 +915,8 @@
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
-        "+4 cooking"
+        "+4 cooking",
+        "x75% eating speed"
       ],
       "conflicts": [
         "ascetic"
@@ -871,7 +928,8 @@
         ],
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
-          "+4 cooking"
+          "+4 cooking",
+          "x75% eating speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -995,12 +1053,18 @@
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+3 medical",
+        "+3 plants"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+3 medical",
+          "+3 plants"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1017,12 +1081,18 @@
       "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+1 medical",
+        "+1 plants"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+1 medical",
+          "+1 plants"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1111,12 +1181,20 @@
       "removePrice": 5500,
       "degree": -1,
       "description": "Timmy tends to look on the bad side of life.",
-      "stats": [],
+      "stats": [
+        "+2 animals",
+        "x105% tame animal chance",
+        "x110% train animal chance"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+2 animals",
+          "x105% tame animal chance",
+          "x110% train animal chance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1133,12 +1211,20 @@
       "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
-      "stats": [],
+      "stats": [
+        "+3 animals",
+        "x110% tame animal chance",
+        "x115% train animal chance"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+3 animals",
+          "x110% tame animal chance",
+          "x115% train animal chance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1212,16 +1298,20 @@
       "degree": -1,
       "description": "Timmy tends to crack under pressure.",
       "stats": [
+        "+2 intellectual",
         "+8% mental break threshold",
-        "x200% global certainty loss factor"
+        "x200% global certainty loss factor",
+        "x110% global learning factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
+          "+2 intellectual",
           "+8% mental break threshold",
-          "x200% global certainty loss factor"
+          "x200% global certainty loss factor",
+          "x110% global learning factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1240,16 +1330,20 @@
       "degree": -2,
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
+        "+3 intellectual",
         "+15% mental break threshold",
-        "x300% global certainty loss factor"
+        "x300% global certainty loss factor",
+        "x115% global learning factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
+          "+3 intellectual",
           "+15% mental break threshold",
-          "x300% global certainty loss factor"
+          "x300% global certainty loss factor",
+          "x115% global learning factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1376,14 +1470,16 @@
       "degree": -1,
       "description": "Timmy is a little bit lazy.",
       "stats": [
-        "-20% global work speed"
+        "-20% global work speed",
+        "x90% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-20% global work speed"
+          "-20% global work speed",
+          "x90% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1402,14 +1498,16 @@
       "degree": -2,
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
-        "-35% global work speed"
+        "-35% global work speed",
+        "x80% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-35% global work speed"
+          "-35% global work speed",
+          "x80% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1533,8 +1631,7 @@
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "x133% weapon handling",
-        "x125% aiming accuracy"
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1546,8 +1643,7 @@
         ],
         "stats": [
           "+25% aiming time",
-          "x133% weapon handling",
-          "x125% aiming accuracy"
+          "+5.0 shooting accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1566,8 +1662,8 @@
       "degree": -1,
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
-        "-25% aiming time",
-        "x75% weapon handling"
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1578,8 +1674,8 @@
           "brawler"
         ],
         "stats": [
-          "-25% aiming time",
-          "x75% weapon handling"
+          "-50% aiming time",
+          "-5.0 shooting accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1650,14 +1746,18 @@
       "degree": -1,
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
-        "-1.0 beauty"
+        "Inspired recruitment inspiration disabled.",
+        "-1.0 beauty",
+        "x110% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-1.0 beauty"
+          "Inspired recruitment inspiration disabled.",
+          "-1.0 beauty",
+          "x110% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1676,14 +1776,20 @@
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
-        "-2.0 beauty"
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "-2.0 beauty",
+        "x115% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-2.0 beauty"
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "-2.0 beauty",
+          "x115% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1779,12 +1885,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
-      "stats": [],
+      "stats": [
+        "Inspired recruitment inspiration disabled."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Inspired recruitment inspiration disabled."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1800,7 +1910,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1810,11 +1920,161 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
+        "mod": "Anomaly",
         "karmaTypeForAdding": null
       },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
+      "defName": "PerfectMemory",
+      "name": "perfectmemory"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
+      "stats": [
+        "+100% study efficiency",
+        "+50% entity study rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% study efficiency",
+          "+50% entity study rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Occultist",
+      "name": "occultist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "joyous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "bodymastery"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "disturbing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Void meditation focus type allowed.",
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Void meditation focus type allowed.",
+          "Only mental break \"entity liberator\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "voidfascination"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
     },
     {
       "canAdd": true,
@@ -1910,6 +2170,182 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
+      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
+      "stats": [
+        "+2.0 shooting accuracy",
+        "-15% aiming time",
+        "+4.0 melee hit chance",
+        "+6.0 melee dodge chance",
+        "-10% incoming damage multiplier",
+        "-10% trap spring chance",
+        "-90% mental break threshold",
+        "+10% pain shock threshold",
+        "x5% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2.0 shooting accuracy",
+          "-15% aiming time",
+          "+4.0 melee hit chance",
+          "+6.0 melee dodge chance",
+          "-10% incoming damage multiplier",
+          "-10% trap spring chance",
+          "-90% mental break threshold",
+          "+10% pain shock threshold",
+          "x5% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DankPyon_Fighter",
+      "name": "fighter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man.",
+      "stats": [
+        "+6.0 shooting accuracy",
+        "-25% aiming time",
+        "+8.0 melee hit chance",
+        "+12.0 melee dodge chance",
+        "+10% medical tend quality",
+        "-30% incoming damage multiplier",
+        "+0.30 move speed",
+        "-20% trap spring chance",
+        "-15% mental break threshold",
+        "+30% pain shock threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6.0 shooting accuracy",
+          "-25% aiming time",
+          "+8.0 melee hit chance",
+          "+12.0 melee dodge chance",
+          "+10% medical tend quality",
+          "-30% incoming damage multiplier",
+          "+0.30 move speed",
+          "-20% trap spring chance",
+          "-15% mental break threshold",
+          "+30% pain shock threshold",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DankPyon_Veteran",
+      "name": "veteran"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with low-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_LowTechProficiency",
+      "name": "low-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with firearm equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_FirearmProficiency",
+      "name": "firearmproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with high-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_HighTechProficiency",
+      "name": "high-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
@@ -1932,33 +2368,59 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
-      "stats": [
-        "-20% mental break threshold"
-      ],
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when his playful intentions are misinterpreted.",
+      "stats": [],
       "conflicts": [
         "abrasive",
-        "kind",
         "psychopath"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "abrasive",
-          "kind",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [
+        "Group meditation focus type allowed."
+      ],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
           "psychopath"
         ],
         "stats": [
-          "-20% mental break threshold"
+          "Group meditation focus type allowed."
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
+        "mod": "Vanilla Races Expanded - Highmate",
         "karmaTypeForAdding": null
       },
-      "defName": "BS_Gentle",
-      "name": "gentle"
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     },
     {
       "canAdd": true,
@@ -1966,199 +2428,25 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is able to use oversized weapons.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Giant",
-      "name": "giant"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
+      "description": "Timmy's mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",
       "stats": [
-        "+80% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+80% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "majorforcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
-      "stats": [
-        "+40% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+40% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "forcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
-      "stats": [
-        "+20% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+20% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "dullforcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a very strong affinity with the light side of the Force.",
-      "stats": [
-        "+80% light side attunement"
+        "-1.00% sanity gain per day"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+80% light side attunement"
+          "-1.00% sanity gain per day"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
+        "mod": "Vanilla Anomaly Expanded - Insanity",
         "karmaTypeForAdding": null
       },
-      "defName": "Force_LightAffinity",
-      "name": "majorlightsideaffinity"
+      "defName": "VAEI_Inhumanized",
+      "name": "inhumanized"
     },
     {
       "canAdd": true,
@@ -2166,77 +2454,25 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a strong affinity with the light side of the Force.",
+      "description": "Timmy has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them.",
       "stats": [
-        "+40% light side attunement"
+        "x10% sanity gain multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+40% light side attunement"
+          "x10% sanity gain multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
+        "mod": "Vanilla Anomaly Expanded - Insanity",
         "karmaTypeForAdding": null
       },
-      "defName": "Force_LightAffinity",
-      "name": "lightsideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weak affinity with the light side of the Force.",
-      "stats": [
-        "+20% light side attunement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% light side attunement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_LightAffinity",
-      "name": "minorlightsideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a very strong affinity with the dark side of the Force.",
-      "stats": [
-        "+80% dark side corruption"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+80% dark side corruption"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_DarkAffinity",
-      "name": "majordarksideaffinity"
+      "defName": "VAEI_VoidTouched",
+      "name": "voidtouched"
     },
     {
       "canAdd": true,
@@ -2244,51 +2480,135 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a strong affinity with the dark side of the Force.",
+      "description": "Timmy is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague.",
       "stats": [
-        "+40% dark side corruption"
+        "+100.00% sanity loss multiplier",
+        "x20% cleaning speed multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+40% dark side corruption"
+          "+100.00% sanity loss multiplier",
+          "x20% cleaning speed multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
+        "mod": "Vanilla Anomaly Expanded - Insanity",
         "karmaTypeForAdding": null
       },
-      "defName": "Force_DarkAffinity",
-      "name": "darksideaffinity"
+      "defName": "VAEI_Germaphobe",
+      "name": "germaphobe"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weak affinity with the dark side of the Force.",
+      "degree": 0,
+      "description": "Timmy is desperately afraid of commitment. he will actively refuse any attachment to others, and will never form any new relationships.",
       "stats": [
-        "+20% dark side corruption"
+        "+100.00% sanity loss multiplier"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+20% dark side corruption"
+          "+100.00% sanity loss multiplier"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
+        "mod": "Vanilla Anomaly Expanded - Insanity",
         "karmaTypeForAdding": null
       },
-      "defName": "Force_DarkAffinity",
-      "name": "minordarksideaffinity"
+      "defName": "VAEI_Noncommittal",
+      "name": "noncommittal"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's emotional foundation is fragile, making him significantly more prone to crumbling under stress. he struggle to handle pressure, which often leads to breakdowns in challenging situations.",
+      "stats": [
+        "+12% mental break threshold",
+        "+100.00% sanity loss multiplier",
+        "x250% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+12% mental break threshold",
+          "+100.00% sanity loss multiplier",
+          "x250% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Unstable",
+      "name": "impulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hyperfocuses on certain things when he feel like it, but most of the time he will struggle to concentrate on his task, severely affecting his work speed.",
+      "stats": [
+        "+100.00% sanity loss multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Distractable",
+      "name": "distractable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy suffers from severe mood swings that can last anything between a day and a quadrum. One day he might be extremely happy, whilst the next day - extremely sad.",
+      "stats": [
+        "+100.00% sanity loss multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_MoodSwings",
+      "name": "moodswings"
     },
     {
       "canAdd": true,
@@ -2384,7 +2704,8 @@
           "+16.0C [28.8F] Min comfortable temperature",
           "+26.0C [46.8F] Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -2399,414 +2720,27 @@
       "data": {
         "customName": false,
         "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+1.5 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-10.0C [-18.0F] Min comfortable temperature",
-          "+45.0C [81.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Catgirl",
-      "enabled": true,
-      "name": "Catgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+1.3 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1500 Market value",
-          "+5.10 Move speed",
-          "-20.0C [-36.0F] Min comfortable temperature",
-          "+35.0C [63.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+1.53 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1.53 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Wolfgirl",
-      "enabled": true,
-      "name": "Wolfgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+1.3 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-40.0C [-72.0F] Min comfortable temperature",
-          "+30.0C [54.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Foxgirl",
-      "enabled": true,
-      "name": "Foxgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Mass",
+          "+60.00 Mass",
           "+70% Flammability",
-          "+0.8 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
-          "+4.00 Move speed",
-          "+0.0C [0.0F] Min comfortable temperature",
-          "+30.0C [54.0F] Max comfortable temperature",
-          "+100% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Eating speed",
-          "+60 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A Cowgirl that has developed a semblance of intelligence.",
-      "defName": "MG_Cowgirl",
-      "enabled": true,
-      "name": "Cowgirl",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+90% Flammability",
-          "+0.8 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1600 Market value",
-          "+4.80 Move speed",
-          "+0.0C [0.0F] Min comfortable temperature",
-          "+30.0C [54.0F] Max comfortable temperature",
-          "+100% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Eating speed",
-          "+45 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A Harpy that has developed a semblance of intelligence.",
-      "defName": "MG_Harpy",
-      "enabled": true,
-      "name": "Harpy",
-      "price": 2667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+0.8 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1800 Market value",
-          "+4.00 Move speed",
-          "+0.0C [0.0F] Min comfortable temperature",
-          "+60.0C [108.0F] Max comfortable temperature",
-          "+200% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+25.0% Armor - Heat",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
-      "defName": "MG_Slime",
-      "enabled": true,
-      "name": "Slime",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 Mass",
-          "+70% Flammability",
-          "+0.8 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1850 Market value",
           "+4.60 Move speed",
-          "+10.0C [18.0F] Min comfortable temperature",
-          "+30.0C [54.0F] Max comfortable temperature",
-          "+100% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+90% Toxic resistance",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+100% Aiming time",
-          "+120.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A Baphomet that has developed a semblance of intelligence.",
-      "defName": "MG_Baphomet",
-      "enabled": true,
-      "name": "Baphomet",
-      "price": 3083
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+90.00 Mass",
-          "+100% Flammability",
-          "+1.2 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1750 Market value",
-          "+6.60 Move speed",
-          "+0.0C [0.0F] Min comfortable temperature",
-          "+30.0C [54.0F] Max comfortable temperature",
-          "+100% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Eating speed",
+          "+16.0C [28.8F] Min comfortable temperature",
+          "+26.0C [46.8F] Max comfortable temperature",
           "+75 Leather amount",
-          "+75% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A Centaur that has developed a semblance of intelligence.",
-      "defName": "MG_Centaur",
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "CreepJoiner",
       "enabled": true,
-      "name": "Centaur",
+      "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+30.00 Mass",
-          "+80% Flammability",
-          "+5.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "+10.0C [18.0F] Min comfortable temperature",
-          "+40.0C [72.0F] Max comfortable temperature",
-          "+500% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "-100% Toxic resistance",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
-      "defName": "MG_ForestFairy",
-      "enabled": true,
-      "name": "ForestFairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+30.00 Mass",
-          "+50% Flammability",
-          "+5.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "-300.0C [-540.0F] Min comfortable temperature",
-          "+0.0C [0.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "-20% Toxic resistance",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
-      "defName": "MG_IceFairy",
-      "enabled": true,
-      "name": "IceFairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+90.00 Mass",
-          "+5% Flammability",
-          "+1.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-20.0C [-36.0F] Min comfortable temperature",
-          "+100.0C [180.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+3.11 Armor - Sharp",
-          "+6.222 Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+3.11 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
-      "defName": "MG_Dragon",
-      "enabled": true,
-      "name": "Dragon",
-      "price": 3667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+90.00 Mass",
-          "+120% Flammability",
-          "+1.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-55.0C [-99.0F] Min comfortable temperature",
-          "+40.0C [72.0F] Max comfortable temperature",
-          "+125% Immunity gain speed",
-          "+120 Carrying capacity",
-          "+1 Armor - Sharp",
-          "+2 Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact",
-          "+1 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Thrumbogirl",
-      "enabled": true,
-      "name": "Thrumbogirl",
-      "price": 3667
     }
   ]
 }
