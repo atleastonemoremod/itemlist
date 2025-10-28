@@ -2037,7 +2037,7 @@
     "author": "Sjaandi",
     "name": "Realistic Lighting and Shadows",
     "steamId": "3520836521",
-    "version": "1.0.0+be93e03ab9226ebea5bca8e25b88bd87ff54fa7a"
+    "version": "1.0.0+b98a5284b6feeb9f8da78d521064f58523e43577"
   },
   {
     "author": "ferny",
@@ -2228,12 +2228,6 @@
   {
     "author": "Si-Cafe",
     "name": "Not Overhead Meal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Darth_Sergeant",
-    "name": "Nurse Job",
     "steamId": null,
     "version": null
   },
@@ -3433,12 +3427,6 @@
   },
   {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": "2069684319",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
     "name": "[FSF] No Default Shelf Storage",
     "steamId": null,
     "version": null
@@ -3658,5 +3646,17 @@
     "name": "Hospitality: Storefront",
     "steamId": "",
     "version": "1.0.0+7e811f329e0e1da791c71687fb203f76aad4da1d"
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Minimal Light Control",
+    "steamId": "1554307259",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Densevoid",
+    "name": "Personal Work Categories",
+    "steamId": "2722053051",
+    "version": "1.5"
   }
 ]
