@@ -221,8 +221,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
+		"abr": "infestation",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -289,16 +289,6 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
@@ -411,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 80
 }
