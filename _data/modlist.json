@@ -327,7 +327,7 @@
     "author": "Si-Cafe",
     "name": "Graphic Chair Overhaul 2",
     "steamId": "2982680251",
-    "version": "1.12.9325.31714"
+    "version": "1.12.9500.33270"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
@@ -939,7 +939,7 @@
     "author": "OELS",
     "name": "Vehicle Map Framework",
     "steamId": "3426502333",
-    "version": "1.6.339+e3cc222fc3"
+    "version": "1.6.343+907ee01d95"
   },
   {
     "author": "ChaoticEnrico",
@@ -1497,7 +1497,7 @@
     "author": "NightmareCorporation",
     "name": "Aquariums!",
     "steamId": "3478462020",
-    "version": "1.0.0+504da3f249ba8027327c7e264e85325c454e1231"
+    "version": "1.0.0+182dc5b216d5c56d201fcf9698de08e62becb909"
   },
   {
     "author": "Adamas",
@@ -2127,7 +2127,7 @@
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.4.0.0+9d2e9ea1338a94352e735339dd3e8e138969fd1e"
+    "version": "7.0.0.0+ee3ebc8e0a5830ab5d20d4e9f165c4e823d10567"
   },
   {
     "author": "ferny",
@@ -2926,12 +2926,6 @@
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Wemd",
-    "name": "Realistic Darkness (Light)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "mr.teterew",
@@ -4837,12 +4831,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
@@ -5767,9 +5755,9 @@
   },
   {
     "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
+    "name": "Animal Tab (Continued 1.6)",
+    "steamId": "",
+    "version": "1.0.0+ae984dfc6e36bd504ce07cb5350c458ed12fb5c4"
   },
   {
     "author": "Linnun",
@@ -6015,7 +6003,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "3525414162",
-    "version": "1.0.0+1a629a3fb4880837796283c96901fae0f10e6b9a"
+    "version": "1.0.0+f6fcd05452a8937ead39191fee7dd2a8db1f563f"
   },
   {
     "author": "nry",
@@ -6236,6 +6224,18 @@
   {
     "author": "Ryuudra",
     "name": "Prisoner Jumpsuits - No Quality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal and Insect Meals",
     "steamId": null,
     "version": null
   }

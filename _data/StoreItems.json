@@ -54972,6 +54972,78 @@
 		"category": "Mortar shells",
 		"defname": "AB_Shell_Tar"
 	},
+	{
+		"abr": "cannibalfinemeal",
+		"price": 33,
+		"category": "Meals",
+		"defname": "CAN_CannibalMealFine"
+	},
+	{
+		"abr": "cannibalkibble",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CAN_CannibalKibble"
+	},
+	{
+		"abr": "canniballavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "CAN_CannibalMealLavish"
+	},
+	{
+		"abr": "cannibalpackagedsurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "CAN_CannibalMealSurvivalPack"
+	},
+	{
+		"abr": "cannibalpemmican",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CAN_CannibalPemmican"
+	},
+	{
+		"abr": "cannibalsimplemeal",
+		"price": 25,
+		"category": "Meals",
+		"defname": "CAN_CannibalMealSimple"
+	},
+	{
+		"abr": "insectfinemeal",
+		"price": 33,
+		"category": "Meals",
+		"defname": "CAN_InsectMealFine"
+	},
+	{
+		"abr": "insectkibble",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CAN_InsectKibble"
+	},
+	{
+		"abr": "insectlavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "CAN_InsectMealLavish"
+	},
+	{
+		"abr": "insectpackagedsurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "CAN_InsectMealSurvivalPack"
+	},
+	{
+		"abr": "insectpemmican",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CAN_InsectPemmican"
+	},
+	{
+		"abr": "insectsimplemeal",
+		"price": 25,
+		"category": "Meals",
+		"defname": "CAN_InsectMealSimple"
+	}
 	],
-	"total": 9162
+	"total": 9174
 }
