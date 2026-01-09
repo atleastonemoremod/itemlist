@@ -12906,6 +12906,156 @@
 		"category": "Archotech",
 		"defname": "SoSArchotechJaw"
 	},
+	{
+		"abr": "anchovy",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawAnchovy"
+	},
+	{
+		"abr": "angelfish",
+		"price": 13,
+		"category": "Fish",
+		"defname": "VCEF_RawAngelfish"
+	},
+	{
+		"abr": "anglerfish",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_RawAnglerfish"
+	},
+	{
+		"abr": "arapaima(adeptcatch)",
+		"price": 11,
+		"category": "Fish",
+		"defname": "VCEF_Arapaima"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechshieldgenerator",
+		"price": 15633,
+		"category": "Misc",
+		"defname": "ArchotechShieldGenerator"
+	},
+	{
+		"abr": "archotechshipairlock",
+		"price": 1675,
+		"category": "Misc",
+		"defname": "ShipAirlockArchotech"
+	},
+	{
+		"abr": "archotechshiphull",
+		"price": 350,
+		"category": "Misc",
+		"defname": "Ship_BeamArchotech"
+	},
+	{
+		"abr": "archotechshiphull(unpowered)",
+		"price": 331,
+		"category": "Misc",
+		"defname": "Ship_BeamArchotech_Unpowered"
+	},
+	{
+		"abr": "archotechshipvent",
+		"price": 467,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveVentArchotech"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechsolargenerator",
+		"price": 1983,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGeneratorArchotech"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechspore",
+		"price": 17800,
+		"category": "Misc",
+		"defname": "ShipArchotechSpore"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 8542,
+		"category": "Misc",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 333,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "archotortoiseegg(unfert.)",
+		"price": 42,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchotortoiseUnrtilized"
+	}
 	],
-	"total": 2887
+	"total": 2912
 }
