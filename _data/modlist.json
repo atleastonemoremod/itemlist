@@ -45,7 +45,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9504.18955"
+    "version": "1.0.9505.18645"
   },
   {
     "author": "Mehni, XeoNovaDan, simplyWiri, Miyuri (ZXfkSIE) and Kaedys",
@@ -622,6 +622,12 @@
     "name": "Smoked meat",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ormfus",
+    "name": "Smooth Walls Faster",
+    "steamId": "3523616566",
+    "version": "1.0.0.0"
   },
   {
     "author": "Krelinos",
