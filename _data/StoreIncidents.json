@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 50,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -219,11 +224,6 @@
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",

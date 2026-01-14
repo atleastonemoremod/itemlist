@@ -14278,7 +14278,7 @@
       "abr": "ancienttroll",
       "category": "Animals",
       "defname": "DankPyon_AncientTroll",
-      "price": 10750
+      "price": -10
     },
     {
       "abr": "ancienttrollmeat",
@@ -17768,7 +17768,7 @@
     },
     {
       "abr": "blackbunnylingerie",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Fifth",
       "price": 383
     },
@@ -17804,7 +17804,7 @@
     },
     {
       "abr": "blackeveningdress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_seven",
       "price": 458
     },
@@ -17816,7 +17816,7 @@
     },
     {
       "abr": "blackgauzenightdress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_First",
       "price": 251
     },
@@ -17858,7 +17858,7 @@
     },
     {
       "abr": "blackrabbitstiletto",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Stiletto_Third",
       "price": 176
     },
@@ -22208,7 +22208,7 @@
     },
     {
       "abr": "dancer'sveildress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Sixth",
       "price": 318
     },
@@ -24572,7 +24572,7 @@
     },
     {
       "abr": "eveninggownstiletto",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Stiletto_four",
       "price": 176
     },
@@ -25244,7 +25244,7 @@
     },
     {
       "abr": "finelinebikini",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Second",
       "price": 218
     },
@@ -27110,7 +27110,7 @@
     },
     {
       "abr": "ghostlingeriedress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Ghost",
       "price": 500
     },
@@ -37532,7 +37532,7 @@
     },
     {
       "abr": "newyear'slingerie",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Forth",
       "price": 383
     },
@@ -47612,7 +47612,7 @@
     },
     {
       "abr": "strappysandals",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Stiletto_First",
       "price": 176
     },
@@ -50326,13 +50326,13 @@
       "abr": "unhold",
       "category": "Animals",
       "defname": "DankPyon_Unhold",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "unhold",
       "category": "Animals",
       "defname": "DankPyon_UnholdSnow",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "unholdheart",
@@ -51613,12 +51613,6 @@
       "price": 155
     },
     {
-      "abr": "waterbowl",
-      "category": "Hygiene",
-      "defname": "PetWaterBowl",
-      "price": 51
-    },
-    {
       "abr": "waterchestnutplantseedbundle",
       "category": "Seed bundles",
       "defname": "VCE_WaterChestnut_SeedBundle",
@@ -51641,12 +51635,6 @@
       "category": "Hygiene",
       "defname": "DBHA_SmallWaterTank",
       "price": 133
-    },
-    {
-      "abr": "watertrough",
-      "category": "Hygiene",
-      "defname": "WaterTrough",
-      "price": 249
     },
     {
       "abr": "waterwell",
@@ -51758,7 +51746,7 @@
     },
     {
       "abr": "wearablegiftribbon",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Third",
       "price": 218
     },
@@ -51806,7 +51794,7 @@
     },
     {
       "abr": "weddingdress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Weddingdress",
       "price": 500
     },
@@ -51818,7 +51806,7 @@
     },
     {
       "abr": "weddingstiletto",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Stiletto_Second",
       "price": 176
     },
@@ -52664,7 +52652,7 @@
     },
     {
       "abr": "zombiedress",
-      "category": "Valentine's Day apparel",
+      "category": "Vanity apparel",
       "defname": "H_Cloth_Zoombie",
       "price": 467
     },
@@ -52777,6 +52765,636 @@
       "price": 1092
     },
     {
+      "abr": "darkborder",
+      "category": "Misc",
+      "defname": "KS_StoneBorderDark",
+      "price": 7
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 249
+    },
+    {
+      "abr": "ancientmechvat",
+      "category": "Misc",
+      "defname": "AncientMechGestatorTank",
+      "price": 6
+    },
+    {
+      "abr": "ancientpipelinesection",
+      "category": "Misc",
+      "defname": "AncientPipelineSection",
+      "price": 3
+    },
+    {
+      "abr": "ancientexostriderhead",
+      "category": "Misc",
+      "defname": "AncientExostriderHead",
+      "price": 18
+    },
+    {
+      "abr": "ancientexostriderleg",
+      "category": "Misc",
+      "defname": "AncientExostriderLeg",
+      "price": 18
+    },
+    {
+      "abr": "ancientexostridercannon",
+      "category": "Misc",
+      "defname": "AncientExostriderCannon",
+      "price": 18
+    },
+    {
+      "abr": "mechanoidshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_Mech",
+      "price": 302
+    },
+    {
+      "abr": "lifesupportunit",
+      "category": "Misc",
+      "defname": "LifeSupportUnit",
+      "price": 333
+    },
+    {
+      "abr": "castledoor(medium)",
+      "category": "Misc",
+      "defname": "VFEM2_2x1CastleDoor",
+      "price": 467
+    },
+    {
+      "abr": "castledoor(large)",
+      "category": "Misc",
+      "defname": "VFEM2_3x1CastleDoor",
+      "price": 717
+    },
+    {
+      "abr": "castledoor(grand)",
+      "category": "Misc",
+      "defname": "VFEM2_4x1CastleDoor",
+      "price": 1000
+    },
+    {
+      "abr": "tarpit",
+      "category": "Misc",
+      "defname": "DankPyon_TarPit",
+      "price": 483
+    },
+    {
+      "abr": "beehive",
+      "category": "Misc",
+      "defname": "DankPyon_BeeHive",
+      "price": 575
+    },
+    {
+      "abr": "infestedshipchunk",
+      "category": "Misc",
+      "defname": "VFEI2_InfestedShipChunk",
+      "price": 205
+    },
+    {
+      "abr": "infestedshippart",
+      "category": "Misc",
+      "defname": "VFEI2_InfestedShipPart",
+      "price": 1000
+    },
+    {
+      "abr": "infestedshippart",
+      "category": "Misc",
+      "defname": "VRE_InfestedShipPart_Spawned",
+      "price": 400
+    },
+    {
+      "abr": "storagepit",
+      "category": "Furniture",
+      "defname": "ASF_StoragePit",
+      "price": 173
+    },
+    {
+      "abr": "longabandonedshippart",
+      "category": "Misc",
+      "defname": "AB_AbandonedShipPart",
+      "price": 925
+    },
+    {
+      "abr": "graydoor",
+      "category": "Misc",
+      "defname": "AG_GrayDoor",
+      "price": 37
+    },
+    {
+      "abr": "ancientarmoredgate",
+      "category": "Misc",
+      "defname": "AM_ArmoredGate_invincible",
+      "price": 194
+    },
+    {
+      "abr": "ancientarmoredgate",
+      "category": "Misc",
+      "defname": "AM_ArmoredGate",
+      "price": 375
+    },
+    {
+      "abr": "ancientarmoredgate",
+      "category": "Misc",
+      "defname": "AM_ArmoredGateL",
+      "price": 683
+    },
+    {
+      "abr": "ancientarmoredgate",
+      "category": "Misc",
+      "defname": "AM_ArmoredGateS",
+      "price": 270
+    },
+    {
+      "abr": "ancientarmoredgate",
+      "category": "Misc",
+      "defname": "AM_ArmoredGateXS",
+      "price": 202
+    },
+    {
+      "abr": "blockedstaircase",
+      "category": "Misc",
+      "defname": "AM_BlockedStairs",
+      "price": 130
+    },
+    {
+      "abr": "blockedstaircase",
+      "category": "Misc",
+      "defname": "AM_BlockedStairsD",
+      "price": 130
+    },
+    {
+      "abr": "blockedstaircase",
+      "category": "Misc",
+      "defname": "AM_BlockedStairsX",
+      "price": 130
+    },
+    {
+      "abr": "blockedundergroundparkinglotentrance",
+      "category": "Misc",
+      "defname": "AM_BlockedUndergroundGarageEntrance",
+      "price": 450
+    },
+    {
+      "abr": "greenshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_green",
+      "price": 983
+    },
+    {
+      "abr": "smallgreenshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_green_small",
+      "price": 467
+    },
+    {
+      "abr": "greenshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_greenI",
+      "price": 1467
+    },
+    {
+      "abr": "smallgreenshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_greenI_small",
+      "price": 733
+    },
+    {
+      "abr": "yellowshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_yellow",
+      "price": 1092
+    },
+    {
+      "abr": "smallyellowshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_yellow_small",
+      "price": 542
+    },
+    {
+      "abr": "blueshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_blue",
+      "price": 1867
+    },
+    {
+      "abr": "smallblueshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_blue_small",
+      "price": 933
+    },
+    {
+      "abr": "grayshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_gray",
+      "price": 900
+    },
+    {
+      "abr": "smallgrayshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_gray_small",
+      "price": 450
+    },
+    {
+      "abr": "grayshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_grayI",
+      "price": 1083
+    },
+    {
+      "abr": "smallgrayshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_grayI_small",
+      "price": 542
+    },
+    {
+      "abr": "smallpurpleshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_purple_small",
+      "price": 1208
+    },
+    {
+      "abr": "blackshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_black",
+      "price": 1542
+    },
+    {
+      "abr": "smallblackshipchunk",
+      "category": "Misc",
+      "defname": "ShipChunk_black_small",
+      "price": 767
+    },
+    {
+      "abr": "classicalcarwreck",
+      "category": "Misc",
+      "defname": "VVE_ClassicCarWreck",
+      "price": 18
+    },
+    {
+      "abr": "supercarwreck",
+      "category": "Misc",
+      "defname": "VVE_SupercarWreck",
+      "price": 18
+    },
+    {
+      "abr": "battletankwreck",
+      "category": "Misc",
+      "defname": "VVE_BattleTankWreck",
+      "price": 18
+    },
+    {
+      "abr": "lightarmoredvehiclewreck",
+      "category": "Misc",
+      "defname": "VVE_LightArmoredVehicleWreck",
+      "price": 18
+    },
+    {
+      "abr": "offroadjeepwreck",
+      "category": "Misc",
+      "defname": "VVE_OffroadJeepWreck",
+      "price": 18
+    },
+    {
+      "abr": "helicopterwreck",
+      "category": "Misc",
+      "defname": "VVE_HelicopterWreck",
+      "price": 18
+    },
+    {
+      "abr": "truckwreck",
+      "category": "Misc",
+      "defname": "VVE_TruckWreck",
+      "price": 18
+    },
+    {
+      "abr": "artillerywreck",
+      "category": "Misc",
+      "defname": "VVE_ArtilleryWreck",
+      "price": 18
+    },
+    {
+      "abr": "cargohelicopterwreck",
+      "category": "Misc",
+      "defname": "VVE_CargoHelicopterWreck",
+      "price": 18
+    },
+    {
+      "abr": "refrigeratedtruckwreck",
+      "category": "Misc",
+      "defname": "VVE_RefrigeratedTruckWreck",
+      "price": 18
+    },
+    {
+      "abr": "infantryfightingvehiclewreck",
+      "category": "Misc",
+      "defname": "VVE_InfantryFightingVehicleWreck",
+      "price": 18
+    },
+    {
+      "abr": "rocketartillerywreck",
+      "category": "Misc",
+      "defname": "VVE_RocketArtilleryWreck",
+      "price": 18
+    },
+    {
+      "abr": "siegepodwreck",
+      "category": "Misc",
+      "defname": "VVE_SiegePodWreck",
+      "price": 18
+    },
+    {
+      "abr": "ancientsilodoor",
+      "category": "Misc",
+      "defname": "VQED_AncientSiloDoor",
+      "price": 30
+    },
+    {
+      "abr": "burieddeathpit",
+      "category": "Furniture",
+      "defname": "VQED_BuriedDeathPit",
+      "price": 21
+    },
+    {
+      "abr": "frozencryptorailcannon",
+      "category": "Misc",
+      "defname": "VQE_FrozenCryptoRailcannon",
+      "price": 324
+    },
+    {
+      "abr": "frozencryptogenerator",
+      "category": "Misc",
+      "defname": "VQE_FrozenCryptogenerator",
+      "price": 4000
+    },
+    {
+      "abr": "frozencryptogenerator",
+      "category": "Misc",
+      "defname": "VQE_FrozenCryptogenerator_Off",
+      "price": 4000
+    },
+    {
+      "abr": "ancientcryptoforge",
+      "category": "Misc",
+      "defname": "VQE_AncientCryptoforge",
+      "price": 12000
+    },
+    {
+      "abr": "cryptotechprototypebench",
+      "category": "Misc",
+      "defname": "VQE_CryptotechPrototypeBench",
+      "price": 2083
+    },
+    {
+      "abr": "ancientvaultdoor",
+      "category": "Misc",
+      "defname": "VQEA_AncientVaultDoor",
+      "price": 30
+    },
+    {
+      "abr": "ancientlargevaultdoor",
+      "category": "Misc",
+      "defname": "VQEA_AncientVaultDoor_Large",
+      "price": 30
+    },
+    {
+      "abr": "cruderunecircle",
+      "category": "Misc",
+      "defname": "VPER_Runecircle_Constructible",
+      "price": 185
+    },
+    {
+      "abr": "standardrunecircle",
+      "category": "Misc",
+      "defname": "VPER_Runecircle_Standard",
+      "price": 18
+    },
+    {
+      "abr": "greaterrunecircle",
+      "category": "Misc",
+      "defname": "VPER_Runecircle_Greater",
+      "price": 18
+    },
+    {
+      "abr": "ominousobelisk",
+      "category": "Misc",
+      "defname": "VME_Obelisk",
+      "price": 367
+    },
+    {
+      "abr": "dryadnest",
+      "category": "Furniture",
+      "defname": "VDE_DryadNest",
+      "price": 158
+    },
+    {
+      "abr": "futuristicobelisk",
+      "category": "Misc",
+      "defname": "AM_FuturisticObelisk",
+      "price": 1392
+    },
+    {
+      "abr": "shipchunk",
+      "category": "Misc",
+      "defname": "VEE_ShipChunkHuman",
+      "price": 792
+    },
+    {
+      "abr": "swannest",
+      "category": "Misc",
+      "defname": "VAERoy_SwanNest",
+      "price": 3
+    },
+    {
+      "abr": "ancientcyberdeck",
+      "category": "Misc",
+      "defname": "USH_AncientCyberdeck",
+      "price": 6
+    },
+    {
+      "abr": "gauranlenthorncaster",
+      "category": "Misc",
+      "defname": "Dryad_Thorncaster",
+      "price": 11
+    },
+    {
+      "abr": "giantgauranlenthorncaster",
+      "category": "Misc",
+      "defname": "Dryad_GiantThorncaster",
+      "price": 11
+    },
+    {
+      "abr": "gauranlenimpaler",
+      "category": "Misc",
+      "defname": "Dryad_Thornlauncher",
+      "price": 11
+    },
+    {
+      "abr": "gravshipstairs",
+      "category": "Misc",
+      "defname": "MF_GravshipStairsA",
+      "price": 258
+    },
+    {
+      "abr": "gravshipstairsexit",
+      "category": "Misc",
+      "defname": "MF_GravshipStairsExitA",
+      "price": 81
+    },
+    {
+      "abr": "z-shapedmediumbrickstairsup",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMUpA",
+      "price": 268
+    },
+    {
+      "abr": "mediumbrickstairsup",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMUpAFlipped",
+      "price": 268
+    },
+    {
+      "abr": "z-shapedmediumbrickstairsdown",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMDownA",
+      "price": 268
+    },
+    {
+      "abr": "mediumbrickstairsdown",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMDownAFlipped",
+      "price": 268
+    },
+    {
+      "abr": "mediumbrickstairsexit",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMExitA",
+      "price": 83
+    },
+    {
+      "abr": "mediumbrickstairsexit",
+      "category": "Misc",
+      "defname": "MF_BrickStairsMExitAFlipped",
+      "price": 83
+    },
+    {
+      "abr": "z-shapedmediumhandrailstairsup",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsMUpA",
+      "price": 268
+    },
+    {
+      "abr": "mediumhandrailstairsup",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsMUpAFlipped",
+      "price": 268
+    },
+    {
+      "abr": "z-shapedmediumhandrailstairsdown",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsMDownA",
+      "price": 268
+    },
+    {
+      "abr": "mediumhandrailstairsdown",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsMDownAFlipped",
+      "price": 268
+    },
+    {
+      "abr": "z-shapedsmallhandrailstairsup",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSUpA",
+      "price": 265
+    },
+    {
+      "abr": "smallhandrailstairsup",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSUpAFlipped",
+      "price": 265
+    },
+    {
+      "abr": "z-shapedsmallhandrailstairsdown",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSDownA",
+      "price": 265
+    },
+    {
+      "abr": "smallhandrailstairsdown",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSDownAFlipped",
+      "price": 265
+    },
+    {
+      "abr": "smallhandrailstairsexit",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSExitA",
+      "price": 83
+    },
+    {
+      "abr": "smallhandrailstairsexit",
+      "category": "Misc",
+      "defname": "MF_HandrailStairsSExitAFlipped",
+      "price": 83
+    },
+    {
+      "abr": "climateadjuster",
+      "category": "Misc",
+      "defname": "Reverse_Engineered_ClimateAdjuster",
+      "price": 13475
+    },
+    {
+      "abr": "weathercontroller",
+      "category": "Misc",
+      "defname": "Reverse_Engineered_WeatherController",
+      "price": 11375
+    },
+    {
+      "abr": "whiteboard(1x2)",
+      "category": "Furniture",
+      "defname": "PE_Whiteboard",
+      "price": 74
+    },
+    {
+      "abr": "whiteboard(1x3)",
+      "category": "Furniture",
+      "defname": "PE_LargeWhiteboard",
+      "price": 148
+    },
+    {
+      "abr": "holo-educatorscreen(1x2)",
+      "category": "Furniture",
+      "defname": "PE_HoloEducatorScreen",
+      "price": 111
+    },
+    {
+      "abr": "holo-educatorscreen(1x3)",
+      "category": "Furniture",
+      "defname": "PE_LargeHoloEducatorScreen",
+      "price": 166
+    },
+    {
+      "abr": "roughpinkcrystal",
+      "category": "Misc",
+      "defname": "TWRL_Building_PinkCrystalA",
+      "price": 842
+    },
+    {
+      "abr": "roughpinkcrystal",
+      "category": "Misc",
+      "defname": "TWRL_Building_PinkCrystalB",
+      "price": 1608
+    },
+    {
       "abr": "dia.sandbags",
       "category": "Misc",
       "defname": "Sandbags_NAWDiagonal",
@@ -52822,7 +53440,7 @@
       "abr": "dia.air-conpipe",
       "category": "Temperature",
       "defname": "airPipe_NAWDiagonal",
-      "price": 3
+      "price": 4
     },
     {
       "abr": "dia.air-conpipe(hidden)",
@@ -52972,7 +53590,7 @@
       "abr": "dia.modularhydroponicsbasin",
       "category": "Misc",
       "defname": "VFE_Hydroponics_Tilable_NAWDiagonal",
-      "price": 137
+      "price": 138
     },
     {
       "abr": "dia.modularartificialecosystem",
@@ -52996,7 +53614,7 @@
       "abr": "dia.royaljellywall",
       "category": "Misc",
       "defname": "VFEI2_RoyalJellyWall_NAWDiagonal",
-      "price": 79
+      "price": 78
     },
     {
       "abr": "dia.blackjellywall",
@@ -53014,7 +53632,7 @@
       "abr": "dia.subterraneanpropanepipe",
       "category": "Furniture",
       "defname": "AB_PropanePipe_Underground_NAWDiagonal",
-      "price": 14
+      "price": 15
     },
     {
       "abr": "dia.exoticwall",
@@ -53062,13 +53680,13 @@
       "abr": "dia.researchcounter",
       "category": "Misc",
       "defname": "Facility_ResearchCounter_NAWDiagonal",
-      "price": 203
+      "price": 205
     },
     {
       "abr": "dia.sterilewall",
       "category": "Misc",
       "defname": "VFEM_Wall_Sterile_NAWDiagonal",
-      "price": 61
+      "price": 62
     },
     {
       "abr": "dia.chemfuelpipe",
@@ -53080,7 +53698,7 @@
       "abr": "dia.hiddenchemfuelpipe",
       "category": "Misc",
       "defname": "VCHE_UndergroundChemfuelPipe_NAWDiagonal",
-      "price": 14
+      "price": 15
     },
     {
       "abr": "dia.deepchempipe",
@@ -53092,7 +53710,7 @@
       "abr": "dia.hiddendeepchempipe",
       "category": "Misc",
       "defname": "VCHE_UndergroundDeepchemPipe_NAWDiagonal",
-      "price": 27
+      "price": 28
     },
     {
       "abr": "dia.uraniumpipe",
@@ -53104,19 +53722,19 @@
       "abr": "dia.hiddenuraniumpipe",
       "category": "Misc",
       "defname": "PipedARC_HiddenUraniumPipe_NAWDiagonal",
-      "price": 14
+      "price": 15
     },
     {
       "abr": "dia.hemogenpipe",
       "category": "Misc",
       "defname": "VRE_HemogenPipe_NAWDiagonal",
-      "price": 26
+      "price": 27
     },
     {
       "abr": "dia.hiddenhemogenpipe",
       "category": "Misc",
       "defname": "VRE_UndergroundHemogenPipe_NAWDiagonal",
-      "price": 54
+      "price": 55
     },
     {
       "abr": "dia.gaspipe",
@@ -53128,7 +53746,7 @@
       "abr": "dia.hiddengaspipe",
       "category": "Misc",
       "defname": "VHGE_SubterraneanHelixienPipe_NAWDiagonal",
-      "price": 14
+      "price": 15
     },
     {
       "abr": "dia.airduct",
@@ -53152,7 +53770,7 @@
       "abr": "dia.hiddennutrientpastepipe",
       "category": "Misc",
       "defname": "VNPE_UndergroundNutrientPastePipe_NAWDiagonal",
-      "price": 14
+      "price": 15
     },
     {
       "abr": "dia.museumbarrier",
@@ -53206,7 +53824,7 @@
       "abr": "dia.ornatewall",
       "category": "Misc",
       "defname": "RB_OrnateWall_NAWDiagonal",
-      "price": 75
+      "price": 76
     },
     {
       "abr": "dia.clerestorywall",
@@ -53260,7 +53878,7 @@
       "abr": "dia.tirewall",
       "category": "Misc",
       "defname": "oracle_TireWall_NAWDiagonal",
-      "price": 36
+      "price": 37
     },
     {
       "abr": "dia.animahedge",
@@ -53614,25 +54232,25 @@
       "abr": "dia.royalcarpet(patterna)",
       "category": "Misc",
       "defname": "JFRoyalCarpets_A_NAWDiagonal",
-      "price": 40
+      "price": 41
     },
     {
       "abr": "dia.royalcarpet(patternb)",
       "category": "Misc",
       "defname": "JFRoyalCarpets_B_NAWDiagonal",
-      "price": 40
+      "price": 41
     },
     {
       "abr": "dia.royalcarpet(patternc)",
       "category": "Misc",
       "defname": "JFRoyalCarpets_C_NAWDiagonal",
-      "price": 40
+      "price": 41
     },
     {
       "abr": "dia.royalcarpet(patternd)",
       "category": "Misc",
       "defname": "JFRoyalCarpets_D_NAWDiagonal",
-      "price": 40
+      "price": 41
     },
     {
       "abr": "dia.burrowwall",
@@ -53717,7 +54335,13 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 658
     }
   ],
-  "total": 8953
+  "total": 9057
 }
